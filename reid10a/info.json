@@ -1,0 +1,16 @@
+{
+    "abstract": "We study losses for binary classification and class probability estimation\nand extend the understanding of them from margin losses to general\ncomposite losses which are the composition of a proper loss with a link\nfunction.  We characterise when margin losses can be proper composite\nlosses, explicitly show how to determine a symmetric loss in full from half\nof one of its partial losses, introduce an intrinsic parametrisation of\ncomposite binary losses and give a complete characterisation of the\nrelationship between proper losses and \"classification calibrated\"\nlosses. We also consider the question of the \"best\" surrogate binary\nloss. We introduce a precise notion of \"best\" and show there exist\nsituations where two convex surrogate losses are incommensurable. We\nprovide a complete explicit characterisation of the convexity of composite\nbinary losses in terms of the link function and the weight function\nassociated with the proper loss which make up the composite loss. This\ncharacterisation suggests new ways of \"surrogate tuning\" as well as\nproviding an explicit characterisation of when Bregman divergences on the\nunit interval are convex in their second argument. Finally, in an\nappendix we present some new algorithm-independent results on the\nrelationship between properness,  convexity and robustness to\nmisclassification noise for binary losses and show that all convex proper\nlosses are non-robust to misclassification noise.",
+    "authors": [
+        "Mark D. Reid",
+        "Robert C. Williamson"
+    ],
+    "id": "reid10a",
+    "issue": 82,
+    "pages": [
+        2387,
+        2422
+    ],
+    "title": "Composite Binary Losses",
+    "volume": "11",
+    "year": "2010"
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "A variational level set method is developed for the supervised classification problem.  Nonlinear classifier decision boundaries are obtained by minimizing an energy functional that is composed of an empirical risk term with a margin-based loss and a geometric regularization term new to machine learning: the surface area of the decision boundary.  This geometric level set classifier is analyzed in terms of consistency and complexity through the calculation of its &#949;-entropy.  For multicategory classification, an efficient scheme is developed using a logarithmic number of decision functions in the number of classes rather than the typical linear number of decision functions.  Geometric level set classification yields performance results on benchmark data sets that are competitive with well-established methods.",
+    "authors": [
+        "Kush R. Varshney",
+        "Alan S. Willsky"
+    ],
+    "id": "varshney10a",
+    "issue": 13,
+    "pages": [
+        491,
+        516
+    ],
+    "title": "Classification Using Geometric Level Sets",
+    "volume": "11",
+    "year": "2010"
+}

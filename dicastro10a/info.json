@@ -1,0 +1,16 @@
+{
+    "abstract": "Actor-Critic based approaches were among the first to address reinforcement\nlearning in a general setting. Recently, these algorithms have gained\nrenewed interest due to their generality, good convergence properties,\nand possible biological relevance. In this paper, we introduce an\nonline temporal difference based actor-critic algorithm which is proved\nto converge to a neighborhood of a local maximum of the average reward.\nLinear function approximation is used by the critic in order estimate\nthe value function, and the temporal difference signal, which is passed\nfrom the critic to the actor. The main distinguishing feature of the\npresent convergence proof is that both the actor and the critic operate\non a similar time scale, while in most current convergence proofs\nthey are required to have very different time scales in order to converge.\nMoreover, the same temporal difference signal is used to update the\nparameters of both the actor and the critic. A limitation of the proposed\napproach, compared to results available for two time scale convergence,\nis that convergence is guaranteed only to a neighborhood of an optimal\nvalue, rather to an optimal value itself. The single time scale and\nidentical temporal difference signal used by the actor and the critic,\nmay provide a step towards constructing more biologically realistic\nmodels of reinforcement learning in the brain.",
+    "authors": [
+        "Dotan Di Castro",
+        "Ron Meir"
+    ],
+    "id": "dicastro10a",
+    "issue": 10,
+    "pages": [
+        367,
+        410
+    ],
+    "title": "A Convergent Online Single Time Scale Actor Critic Algorithm",
+    "volume": "11",
+    "year": "2010"
+}

@@ -1,0 +1,15 @@
+{
+    "abstract": "In recent years, a fundamental problem structure has emerged as very useful in a variety of machine learning applications: Submodularity is an intuitive diminishing returns property, stating that adding an element to a smaller set helps more than adding it to a larger set. Similarly to convexity, submodularity allows one to efficiently find provably (near-) optimal solutions for large problems.\nWe present SFO, a toolbox for use in MATLAB or Octave that implements algorithms for minimization and maximization of submodular functions. A tutorial script illustrates the application of submodularity to machine learning and AI problems such as feature selection, clustering, inference and optimized information gathering.",
+    "authors": [
+        "Andreas Krause"
+    ],
+    "id": "krause10a",
+    "issue": 37,
+    "pages": [
+        1141,
+        1144
+    ],
+    "title": "SFO: A Toolbox for Submodular Function Optimization",
+    "volume": "11",
+    "year": "2010"
+}

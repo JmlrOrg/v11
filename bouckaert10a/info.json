@@ -1,0 +1,21 @@
+{
+    "abstract": "WEKA is a popular machine learning workbench with a development life\nof nearly two decades.  This article provides an overview of the factors\nthat we believe to be important to its success. Rather than focussing on the software's functionality, we review aspects of\nproject management and historical development decisions that likely\nhad an impact on the uptake of the project.",
+    "authors": [
+        "Remco R. Bouckaert",
+        "Eibe Frank",
+        "Mark A. Hall",
+        "Geoffrey Holmes",
+        "Bernhard Pfahringer",
+        "Peter Reutemann",
+        "Ian H. Witten"
+    ],
+    "id": "bouckaert10a",
+    "issue": 86,
+    "pages": [
+        2533,
+        2541
+    ],
+    "title": "WEKA&minus;Experiences with a Java Open-Source Project",
+    "volume": "11",
+    "year": "2010"
+}

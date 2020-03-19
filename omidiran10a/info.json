@@ -1,0 +1,16 @@
+{
+    "abstract": "We consider the problem of high-dimensional variable selection: given\n<i>n</i> noisy observations of a <i>k</i>-sparse vector <i>&#946;<sup>*</sup> &#8712; R<sup>p</sup></i>,\nestimate the subset of non-zero entries of <i>&#946;<sup>*</sup></i>.\nA significant body of work has studied behavior of\n<i>l<sub>1</sub></i>-relaxations when applied to random measurement matrices that\nare dense (e.g., Gaussian, Bernoulli).  In this paper, we analyze\n<i>sparsified</i> measurement ensembles, and consider the trade-off\nbetween measurement sparsity, as measured by the fraction <i>&#947;</i> of\nnon-zero entries, and the statistical efficiency, as measured by the\nminimal number of observations <i>n</i> required for correct variable\nselection with probability converging to one.  Our main result is to\nprove that it is possible to let the fraction on non-zero entries\n<i>&#947; &#8594; 0</i> at some rate, yielding measurement matrices\nwith a vanishing fraction of non-zeros per row, while retaining the\nsame statistical efficiency as dense ensembles.  A variety of\nsimulation results confirm the sharpness of our theoretical\npredictions.",
+    "authors": [
+        "Dapo Omidiran",
+        "Martin J. Wainwright"
+    ],
+    "id": "omidiran10a",
+    "issue": 81,
+    "pages": [
+        2361,
+        2386
+    ],
+    "title": "High-dimensional Variable Selection with Sparse Random Projections: Measurement Sparsity and Statistical Efficiency",
+    "volume": "11",
+    "year": "2010"
+}

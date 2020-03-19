@@ -1,0 +1,16 @@
+{
+    "abstract": "We consider the estimation of regression coefficients in a high-dimensional linear model. For regression coefficients in <i>l<sub>r</sub></i> balls, we provide lower bounds for the minimax <i>l<sub>q</sub></i> risk and minimax quantiles of the <i>l<sub>q</sub></i> loss for all design matrices. Under an <i>l<sub>0</sub></i> sparsity condition on a target coefficient vector, we sharpen and unify existing oracle inequalities for the Lasso and Dantzig selector. We derive oracle inequalities for target coefficient vectors with many small elements and smaller threshold levels than the universal threshold. These oracle inequalities provide sufficient conditions on the design matrix for the rate minimaxity of the Lasso and Dantzig selector for the <i>l<sub>q</sub></i> risk and loss in <i>l<sub>r</sub></i> balls, <i>0&#8804; r&#8804; 1&#8804; q&#8804; &#8734;</i>. By allowing <i>q=&#8734;</i>, our risk bounds imply the variable selection consistency of threshold Lasso and Dantzig selectors.",
+    "authors": [
+        "Fei Ye",
+        "Cun-Hui Zhang"
+    ],
+    "id": "ye10a",
+    "issue": 113,
+    "pages": [
+        3519,
+        3540
+    ],
+    "title": "Rate Minimaxity of the Lasso and Dantzig Selector for the <i>l<sub>q</sub></i> Loss in <i>l<sub>r</sub></i> Balls",
+    "volume": "11",
+    "year": "2010"
+}

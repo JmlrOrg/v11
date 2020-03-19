@@ -1,0 +1,18 @@
+{
+    "abstract": "The problem of characterizing learnability is the most basic question of statistical learning theory. A fundamental and long-standing answer, at least for the case of supervised classification and regression, is that learnability is equivalent to uniform convergence of the empirical risk to the population risk, and that if a problem is learnable, it is learnable via empirical risk minimization.  In this paper, we consider the General Learning Setting (introduced by Vapnik), which includes most statistical learning problems as special cases.  We show that in this setting, there are non-trivial learning problems where uniform convergence does not hold, empirical risk minimization fails, and yet they are learnable using alternative mechanisms. Instead of uniform convergence, we identify stability as the key necessary and sufficient condition for learnability. Moreover, we show that the conditions for learnability in the general setting are significantly more complex than in supervised classification and regression.",
+    "authors": [
+        "Shai Shalev-Shwartz",
+        "Ohad Shamir",
+        "Nathan Srebro",
+        "Karthik Sridharan"
+    ],
+    "id": "shalev-shwartz10a",
+    "issue": 89,
+    "pages": [
+        2635,
+        2670
+    ],
+    "title": "Learnability, Stability and Uniform Convergence",
+    "volume": "11",
+    "year": "2010"
+}

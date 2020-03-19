@@ -1,0 +1,15 @@
+{
+    "abstract": "This paper describes the software package libDAI, a free & open source\nC++ library that provides implementations of various exact and approximate\ninference methods for graphical models with discrete-valued variables. libDAI\nsupports directed graphical models (Bayesian networks) as well as undirected\nones (Markov random fields and factor graphs). It offers various\napproximations of the partition sum, marginal probability distributions and\nmaximum probability states. Parameter learning is also supported. A\nfeature comparison with other open source software packages for approximate\ninference is given. libDAI is licensed under the GPL v2+ license and is\navailable at http://www.libdai.org.",
+    "authors": [
+        "Joris M. Mooij"
+    ],
+    "id": "mooij10a",
+    "issue": 73,
+    "pages": [
+        2169,
+        2173
+    ],
+    "title": "libDAI: A Free and Open Source C++ Library for Discrete Approximate Inference in Graphical Models",
+    "volume": "11",
+    "year": "2010"
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": "<b>M</b>assive <b>O</b>nline <b>A</b>nalysis (MOA)\nis a \nsoftware environment for implementing algorithms and running experiments\nfor online learning from \nevolving data streams.\nMOA includes a collection of offline and online methods as well as tools for evaluation. \nIn particular, it implements boosting, bagging, and Hoeffding Trees, all \nwith and without Na&#239;ve Bayes classifiers at the leaves.\nMOA supports bi-directional interaction with WEKA, the Waikato\nEnvironment for Knowledge Analysis,\nand is released under the GNU GPL license.",
+    "authors": [
+        "Albert Bifet",
+        "Geoff Holmes",
+        "Richard Kirkby",
+        "Bernhard Pfahringer"
+    ],
+    "id": "bifet10a",
+    "issue": 51,
+    "pages": [
+        1601,
+        1604
+    ],
+    "title": "MOA: Massive Online Analysis",
+    "volume": "11",
+    "year": "2010"
+}

@@ -1,0 +1,15 @@
+{
+    "abstract": "This paper considers the problem of estimating a high dimensional inverse covariance matrix that can be well approximated by \"sparse\" matrices. Taking advantage of the connection between multivariate linear regression and entries of the inverse covariance matrix, we propose an estimating procedure that can effectively exploit such \"sparsity\".  The proposed method can be computed using linear programming and therefore has the potential to be used in very high dimensional problems. Oracle inequalities are established for the estimation error in terms of several operator norms, showing that the method is adaptive to different types of sparsity of the problem.",
+    "authors": [
+        "Ming Yuan"
+    ],
+    "id": "yuan10b",
+    "issue": 78,
+    "pages": [
+        2261,
+        2286
+    ],
+    "title": "High Dimensional Inverse Covariance Matrix Estimation via Linear Programming",
+    "volume": "11",
+    "year": "2010"
+}

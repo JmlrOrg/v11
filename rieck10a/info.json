@@ -1,0 +1,18 @@
+{
+    "abstract": "Convolution kernels for trees provide simple means for learning with\n  tree-structured data. The computation time of tree kernels is\n  quadratic in the size of the trees, since all pairs of nodes need to\n  be compared. Thus, large parse trees, obtained from HTML documents\n  or structured network data, render convolution kernels inapplicable.\n  In this article, we propose an effective approximation technique for\n  parse tree kernels. The approximate tree kernels (ATKs) limit kernel\n  computation to a sparse subset of relevant subtrees and discard\n  redundant structures, such that training and testing of kernel-based\n  learning methods are significantly accelerated. We devise linear\n  programming approaches for identifying such subsets for supervised\n  and unsupervised learning tasks, respectively. Empirically, the\n  approximate tree kernels attain run-time improvements up to three\n  orders of magnitude while preserving the predictive accuracy of\n  regular tree kernels. For unsupervised tasks, the approximate tree\n  kernels even lead to more accurate predictions by identifying\n  relevant dimensions in feature space.",
+    "authors": [
+        "Konrad Rieck",
+        "Tammo Krueger",
+        "Ulf Brefeld",
+        "Klaus-Robert M&#252;ller"
+    ],
+    "id": "rieck10a",
+    "issue": 15,
+    "pages": [
+        555,
+        580
+    ],
+    "title": "Approximate Tree Kernels",
+    "volume": "11",
+    "year": "2010"
+}

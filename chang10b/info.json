@@ -1,0 +1,18 @@
+{
+    "abstract": "To handle problems created by large data sets, we propose a method that uses a decision tree to decompose a given data space and train SVMs on the decomposed regions. Although there are other means of decomposing a data space, we show that the decision tree has several merits for large-scale SVM training. First, it can classify some data points by its own means, thereby reducing the cost of SVM training for the remaining data points. Second, it is efficient in determining the parameter values that maximize the validation accuracy, which helps maintain good test accuracy. Third, the tree decomposition method can derive a generalization error bound for the classifier. For data sets whose size can be handled by current non-linear, or kernel-based, SVM training techniques, the proposed method can speed up the training by a factor of thousands, and still achieve comparable test accuracy.",
+    "authors": [
+        "Fu Chang",
+        "Chien-Yang Guo",
+        "Xiao-Rong Lin",
+        "Chi-Jen Lu"
+    ],
+    "id": "chang10b",
+    "issue": 97,
+    "pages": [
+        2935,
+        2972
+    ],
+    "title": "Tree Decomposition for Large-Scale SVM Problems",
+    "volume": "11",
+    "year": "2010"
+}

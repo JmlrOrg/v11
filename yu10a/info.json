@@ -1,0 +1,18 @@
+{
+    "abstract": "We extend the well-known BFGS quasi-Newton method and its\nmemory-limited variant LBFGS to the optimization of nonsmooth convex\nobjectives. This is done in a rigorous fashion by generalizing three\ncomponents of BFGS to subdifferentials: the local quadratic model,\nthe identification of a descent direction, and the Wolfe line search\nconditions. We prove that under some technical conditions, the\nresulting subBFGS algorithm is globally convergent in objective\nfunction value.  We apply its memory-limited variant (subLBFGS)\nto <i>L<sub>2</sub></i>-regularized risk minimization with the binary hinge\nloss. To extend our algorithm to the multiclass and multilabel\nsettings, we develop a new, efficient, exact line search\nalgorithm. We prove its worst-case time complexity bounds, and show\nthat our line search can also be used to extend a recently developed\nbundle method to the multiclass and multilabel settings.\nWe also apply the direction-finding component of our algorithm to\n<i>L<sub>1</sub></i>-regularized risk minimization with logistic loss. In all these\ncontexts our methods perform comparable to or better than\nspecialized state-of-the-art solvers on a number of publicly\navailable data sets.  An open source implementation of our\nalgorithms is freely available.",
+    "authors": [
+        "Jin Yu",
+        "S.V.N. Vishwanathan",
+        "Simon G&#252;nter",
+        "Nicol N. Schraudolph"
+    ],
+    "id": "yu10a",
+    "issue": 38,
+    "pages": [
+        1145,
+        1200
+    ],
+    "title": "A Quasi-Newton Approach to Nonsmooth Convex Optimization Problems in Machine Learning",
+    "volume": "11",
+    "year": "2010"
+}

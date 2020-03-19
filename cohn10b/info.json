@@ -1,0 +1,17 @@
+{
+    "abstract": "Inducing a grammar from text has proven to be a notoriously challenging learning task despite decades of research.  The primary reason for its difficulty is that in order to induce plausible grammars, the underlying model must be capable of representing the intricacies of language while also ensuring that it can be readily learned from data.  The majority of existing work on grammar induction has favoured model simplicity (and thus learnability) over representational capacity by using context free grammars and first order dependency grammars, which are not sufficiently expressive to model many common linguistic constructions.  We propose a novel compromise by inferring a probabilistic <i>tree substitution grammar</i>, a formalism which allows for arbitrarily large tree fragments and thereby better represent complex linguistic structures.  To limit the model's complexity we employ a Bayesian non-parametric prior which biases the model towards a sparse grammar with shallow productions.  We demonstrate the model's efficacy on supervised phrase-structure parsing, where we induce a latent segmentation of the training treebank, and on unsupervised dependency grammar induction.  In both cases the model uncovers interesting latent linguistic structures while producing competitive results.",
+    "authors": [
+        "Trevor Cohn",
+        "Phil Blunsom",
+        "Sharon Goldwater"
+    ],
+    "id": "cohn10b",
+    "issue": 101,
+    "pages": [
+        3053,
+        3096
+    ],
+    "title": "Inducing Tree-Substitution Grammars",
+    "volume": "11",
+    "year": "2010"
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": "Large-scale linear classification is widely used in many areas.  The L1-regularized form can be applied for feature selection; however, its non-differentiability causes more difficulties in training.  Although various optimization methods have been proposed in recent years, these have not yet been compared suitably.  In this paper, we first broadly review existing methods.  Then, we discuss state-of-the-art software packages in detail and propose two efficient implementations.  Extensive comparisons indicate that carefully implemented coordinate descent methods are very suitable for training large document data.",
+    "authors": [
+        "Guo-Xun Yuan",
+        "Kai-Wei Chang",
+        "Cho-Jui Hsieh",
+        "Chih-Jen Lin"
+    ],
+    "id": "yuan10c",
+    "issue": 104,
+    "pages": [
+        3183,
+        3234
+    ],
+    "title": "A Comparison of Optimization Methods and Software for Large-scale L1-regularized Linear Classification",
+    "volume": "11",
+    "year": "2010"
+}

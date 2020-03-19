@@ -1,0 +1,16 @@
+{
+    "abstract": "A computationally efficient approach to local learning with kernel methods is\npresented. The <b>Fa</b>st <b>L</b>ocal <b>K</b>ernel <b>S</b>upport\n<b>V</b>ector <b>M</b>achine (FaLK-SVM) trains a set of local SVMs on\nredundant neighbourhoods in the training set and an appropriate model for each\nquery point is selected at testing time according to a proximity strategy.\nSupported by a recent result by Zakai and Ritov (2009) relating consistency and\nlocalizability, our approach achieves high classification accuracies by dividing\nthe separation function in local optimisation problems that can be handled very\nefficiently from the computational viewpoint. The introduction of a fast local\nmodel selection further speeds-up\nthe learning process. Learning and complexity bounds are derived for FaLK-SVM,\nand the empirical evaluation of the approach (with data sets up to 3 million\npoints) showed that it is much faster and more accurate and scalable  than\nstate-of-the-art accurate and approximated SVM solvers at least for non\nhigh-dimensional data sets. More generally, we show that locality can be an\nimportant factor to sensibly speed-up learning approaches and kernel methods,\ndifferently from other recent techniques that tend to dismiss local information\nin order to improve scalability.",
+    "authors": [
+        "Nicola Segata",
+        "Enrico Blanzieri"
+    ],
+    "id": "segata10a",
+    "issue": 63,
+    "pages": [
+        1883,
+        1926
+    ],
+    "title": "Fast and Scalable Local Kernel Machines",
+    "volume": "11",
+    "year": "2010"
+}

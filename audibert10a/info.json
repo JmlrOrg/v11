@@ -1,0 +1,16 @@
+{
+    "abstract": "This work deals with four classical prediction settings, namely full information, bandit, label efficient and bandit label efficient as well as four different notions of regret: pseudo-regret, expected regret, high probability regret and tracking the best expert regret. We introduce a new forecaster, INF (Implicitly Normalized Forecaster) based on an arbitrary function &#968; for which we propose a unified analysis of its pseudo-regret in the four games we consider. In particular, for <i>&#968;(x)</i>=exp<i>(&#951; x) + &#947;/K</i>, INF reduces to the classical exponentially weighted average forecaster and our analysis of the pseudo-regret recovers known results while for the expected regret we slightly tighten the bounds. On the other hand with <i>&#968;(x)=(&#951;/-x)<sup>q</sup> + &#947;/K</i>, which defines a new forecaster, we are able to remove the extraneous logarithmic factor in the pseudo-regret bounds for bandits games, and thus fill in a long open gap in the characterization of the minimax rate for the pseudo-regret in the bandit game. We also provide high probability bounds depending on the cumulative reward of the optimal action.  \n<br>\nFinally, we consider the stochastic bandit game, and prove that an appropriate modification of the upper confidence bound policy UCB1 (Auer et al., 2002a) achieves the distribution-free optimal rate while still having a distribution-dependent rate logarithmic in the number of plays.",
+    "authors": [
+        "Jean-Yves Audibert",
+        "S&#233;bastien Bubeck"
+    ],
+    "id": "audibert10a",
+    "issue": 93,
+    "pages": [
+        2785,
+        2836
+    ],
+    "title": "Regret Bounds and Minimax Policies under Partial Monitoring",
+    "volume": "11",
+    "year": "2010"
+}

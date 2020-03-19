@@ -1,0 +1,18 @@
+{
+    "abstract": "Sparse coding&minus;that is, modelling data vectors as sparse linear\ncombinations of basis elements&minus;is widely used in machine learning,\nneuroscience, signal processing, and statistics. This paper focuses on the\nlarge-scale matrix factorization problem that consists of <i>learning</i>\nthe basis set in order to adapt it to specific data. Variations of this\nproblem include dictionary learning in signal processing, non-negative\nmatrix factorization and sparse principal component analysis. In this\npaper, we propose to address these tasks with a new online optimization\nalgorithm, based on stochastic approximations, which scales up gracefully\nto large data sets with millions of training samples, and extends naturally\nto various  matrix factorization formulations, making it suitable for a\nwide range of learning problems. A proof of convergence is presented,\nalong with experiments with natural images and genomic data demonstrating\nthat it leads to state-of-the-art performance in terms of speed and\noptimization for both small and large data sets.",
+    "authors": [
+        "Julien Mairal",
+        "Francis Bach",
+        "Jean Ponce",
+        "Guillermo Sapiro"
+    ],
+    "id": "mairal10a",
+    "issue": 1,
+    "pages": [
+        19,
+        60
+    ],
+    "title": "Online Learning for Matrix Factorization and Sparse Coding",
+    "volume": "11",
+    "year": "2010"
+}

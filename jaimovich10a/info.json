@@ -1,0 +1,18 @@
+{
+    "abstract": "The FastInf C++ library is designed to perform memory and time\n  efficient approximate inference in large-scale discrete undirected\n  graphical models.  The focus of the library is propagation based\n  approximate inference methods, ranging from the basic loopy belief\n  propagation algorithm to propagation based on convex free energies.\n  Various message scheduling schemes that improve on the standard\n  synchronous or asynchronous approaches are included. Also\n  implemented are a clique tree based exact inference, Gibbs sampling,\n  and the mean field algorithm.  In addition to inference, FastInf\n  provides parameter estimation capabilities as well as representation\n  and learning of shared parameters. It offers a rich interface that\n  facilitates extension of the basic classes to other inference and\n  learning methods.",
+    "authors": [
+        "Ariel Jaimovich",
+        "Ofer Meshi",
+        "Ian McGraw",
+        "Gal Elidan"
+    ],
+    "id": "jaimovich10a",
+    "issue": 56,
+    "pages": [
+        1733,
+        1736
+    ],
+    "title": "FastInf: An Efficient Approximate Inference Library",
+    "volume": "11",
+    "year": "2010"
+}

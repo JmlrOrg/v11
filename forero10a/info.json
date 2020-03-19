@@ -1,0 +1,17 @@
+{
+    "abstract": "This paper develops algorithms to train support vector machines when\ntraining data are distributed across different nodes,\nand their communication to a centralized processing unit is\nprohibited due to, for example, communication complexity, scalability, or\nprivacy reasons. To accomplish this goal, the centralized linear SVM\nproblem is cast as a set of decentralized convex optimization\nsub-problems (one per node) with consensus constraints on the wanted\nclassifier parameters. Using the alternating direction method of\nmultipliers, fully distributed training algorithms are obtained\nwithout exchanging training data among nodes. Different from\nexisting incremental approaches, the overhead associated with\ninter-node communications is fixed and solely dependent on the\nnetwork topology rather than the size of the training sets available\nper node. Important generalizations to train nonlinear SVMs in a\ndistributed fashion are also developed along with sequential variants\ncapable of online processing. Simulated tests illustrate the\nperformance of the novel\nalgorithms.",
+    "authors": [
+        "Pedro A. Forero",
+        "Alfonso Cano",
+        "Georgios B. Giannakis"
+    ],
+    "id": "forero10a",
+    "issue": 54,
+    "pages": [
+        1663,
+        1707
+    ],
+    "title": "Consensus-Based Distributed Support Vector Machines",
+    "volume": "11",
+    "year": "2010"
+}

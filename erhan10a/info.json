@@ -1,0 +1,20 @@
+{
+    "abstract": "Much recent research has been devoted to learning algorithms for deep\n architectures such as Deep Belief Networks and stacks of auto-encoder\n variants, \n  with impressive results obtained in several\n  areas, mostly on vision and language data sets.  The best results obtained\n  on supervised learning tasks involve an unsupervised learning component,\n  usually in an unsupervised pre-training phase. Even though these new algorithms have enabled training deep\nmodels, many questions remain as to the nature of this difficult learning problem. The main question\n  investigated here is the following: how does unsupervised pre-training\n  work? Answering this questions\nis important if learning in deep architectures is to be further improved.  \nWe propose several explanatory hypotheses and test them through extensive simulations. \nWe empirically show the influence of pre-training with respect to\narchitecture depth, model capacity, and number of training examples.\nThe experiments confirm and clarify the advantage of unsupervised pre-training.\n  The results suggest that unsupervised pre-training\n  guides the learning towards basins of attraction of minima that support better generalization from the training data set; the evidence from these results supports a regularization explanation for the effect of pre-training.",
+    "authors": [
+        "Dumitru Erhan",
+        "Yoshua Bengio",
+        "Aaron Courville",
+        "Pierre-Antoine Manzagol",
+        "Pascal Vincent",
+        "Samy Bengio"
+    ],
+    "id": "erhan10a",
+    "issue": 18,
+    "pages": [
+        625,
+        660
+    ],
+    "title": "Why Does Unsupervised Pre-training Help Deep Learning?",
+    "volume": "11",
+    "year": "2010"
+}

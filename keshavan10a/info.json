@@ -1,0 +1,17 @@
+{
+    "abstract": "Given a matrix <i>M</i> of low-rank, we consider the problem of\nreconstructing it from noisy observations of a small,\nrandom subset of its entries. The problem arises in a variety\nof applications, from collaborative filtering (the 'Netflix problem')\nto structure-from-motion and positioning. We study a low complexity algorithm\nintroduced by Keshavan, Montanari, and Oh (2010), based on a combination\nof spectral techniques and manifold optimization, that we call \nhere OPTSPACE. We prove performance guarantees that are \norder-optimal in a number of circumstances.",
+    "authors": [
+        "Raghunandan H. Keshavan",
+        "Andrea Montanari",
+        "Sewoong Oh"
+    ],
+    "id": "keshavan10a",
+    "issue": 68,
+    "pages": [
+        2057,
+        2078
+    ],
+    "title": "Matrix Completion from  Noisy Entries",
+    "volume": "11",
+    "year": "2010"
+}

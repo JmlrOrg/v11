@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper, we investigate the problem of binary classification with a reject option in which one can withhold the decision of classifying an observation at a cost lower than that of misclassification. Since the natural loss function is non-convex so that empirical risk minimization easily becomes infeasible, the paper proposes minimizing convex risks based on surrogate convex loss functions. A necessary and sufficient condition for  infinite sample consistency (both risks share the same minimizer)  is provided. Moreover, we show that the excess risk can be bounded through the excess surrogate risk under appropriate conditions. These bounds can be tightened by a generalized margin condition. The impact of the results is illustrated on several commonly used surrogate loss functions.",
+    "authors": [
+        "Ming Yuan",
+        "Marten Wegkamp"
+    ],
+    "id": "yuan10a",
+    "issue": 4,
+    "pages": [
+        111,
+        130
+    ],
+    "title": "Classification Methods with Reject Option Based on Convex Risk Minimization",
+    "volume": "11",
+    "year": "2010"
+}

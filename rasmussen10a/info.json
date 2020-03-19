@@ -1,0 +1,16 @@
+{
+    "abstract": "The GPML toolbox provides a wide range of functionality for Gaussian process (GP) inference and prediction. GPs are specified by mean and covariance functions; we offer a library of simple mean and covariance functions and mechanisms to compose more complex ones. Several likelihood functions are supported including Gaussian and heavy-tailed for regression as well as others suitable for classification.  Finally, a range of inference methods is provided, including exact and variational inference, Expectation Propagation, and Laplace's method dealing with non-Gaussian likelihoods and FITC for dealing with large regression tasks.",
+    "authors": [
+        "Carl Edward Rasmussen",
+        "Hannes Nickisch"
+    ],
+    "id": "rasmussen10a",
+    "issue": 99,
+    "pages": [
+        3011,
+        3015
+    ],
+    "title": "Gaussian Processes for Machine Learning (GPML) Toolbox",
+    "volume": "11",
+    "year": "2010"
+}

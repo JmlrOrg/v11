@@ -1,0 +1,16 @@
+{
+    "abstract": "We show how a preselection of hidden variables can be used to efficiently train generative models with binary hidden variables.  The approach is based on Expectation Maximization (EM) and uses an efficiently computable approximation to the sufficient statistics of a given model.  The computational cost to compute the sufficient statistics is strongly reduced by selecting, for each data point, the relevant hidden causes.  The approximation is applicable to a wide range of generative models and provides an interpretation of the benefits of preselection in terms of a variational EM approximation. To empirically show that the method maximizes the data likelihood, it is applied to different types of generative models including: a version of non-negative matrix factorization (NMF), a model for non-linear component extraction (MCA), and a linear generative model similar to sparse coding.  The derived algorithms are applied to both artificial and realistic data, and are compared to other models in the literature.  We find that the training scheme can reduce computational costs by orders of magnitude and allows for a reliable extraction of hidden causes.",
+    "authors": [
+        "J&#246;rg L&#252;cke",
+        "Julian Eggert"
+    ],
+    "id": "lucke10a",
+    "issue": 95,
+    "pages": [
+        2855,
+        2900
+    ],
+    "title": "Expectation Truncation and the Benefits of Preselection In Training Generative Models",
+    "volume": "11",
+    "year": "2010"
+}

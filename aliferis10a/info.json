@@ -1,0 +1,19 @@
+{
+    "abstract": "We present an algorithmic framework for learning local causal structure around target variables of interest\nin the form of direct causes/effects and Markov blankets applicable to very large data sets with relatively small samples.\nThe selected feature sets can be used for causal discovery and classification. The framework (<i>Generalized Local Learning</i>, or GLL)\ncan be instantiated in numerous ways, giving rise to both existing state-of-the-art as well as novel algorithms.\nThe resulting algorithms are sound under well-defined sufficient conditions. In a first set of experiments we evaluate\n several algorithms derived from this framework in terms of predictivity and feature set parsimony and compare to other\n  local causal discovery methods and to state-of-the-art non-causal feature selection methods using real data.\n  A second set of experimental evaluations compares the algorithms in terms of ability to induce local causal neighborhoods\n  using simulated and resimulated data and examines the relation of predictivity with causal induction performance.\n\n<br>\n\nOur experiments demonstrate, consistently with causal feature selection theory, that local causal feature selection methods\n (under broad assumptions encompassing appropriate family of distributions, types of classifiers, and loss functions)\n exhibit strong feature set parsimony, high predictivity and local causal interpretability.  Although non-causal feature selection\n methods are often used in practice to shed light on causal relationships, we find that they cannot be interpreted causally even\n when they achieve excellent predictivity. Therefore we conclude that only local causal techniques should be used when insight into\n causal structure is sought.\n\n<br>\n\n In a companion paper we examine in depth the behavior of GLL algorithms, provide extensions, and show how local techniques\n can be used for scalable and accurate global causal graph learning.",
+    "authors": [
+        "Constantin F. Aliferis",
+        "Alexander Statnikov",
+        "Ioannis Tsamardinos",
+        "Subramani Mani",
+        "Xenofon D. Koutsoukos"
+    ],
+    "id": "aliferis10a",
+    "issue": 6,
+    "pages": [
+        171,
+        234
+    ],
+    "title": "Local Causal and Markov Blanket Induction for Causal Discovery and Feature Selection for Classification Part I: Algorithms and Empirical Evaluation",
+    "volume": "11",
+    "year": "2010"
+}

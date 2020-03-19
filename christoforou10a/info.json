@@ -1,0 +1,18 @@
+{
+    "abstract": "Traditional analysis methods for single-trial classification of\nelectro-encephalography (EEG) focus on two types of paradigms: phase-locked\nmethods, in which the amplitude of the signal is used as the\nfeature for classification, that is, event related potentials; and\nsecond-order methods, in which the feature of interest is the power\nof the signal, that is, event related (de)synchronization. The process of\ndeciding which paradigm to use is <i>ad hoc</i> and is driven by\nassumptions regarding the underlying neural generators. Here we\npropose a method that provides an unified framework for the analysis\nof EEG, combining  first and second-order spatial and temporal\nfeatures based on a bilinear model. Evaluation of the proposed\nmethod on simulated data shows that the technique outperforms\nstate-of-the art techniques for single-trial classification for a\nbroad range of signal-to-noise ratios. Evaluations on human EEG&minus;including\none benchmark data set from the Brain Computer Interface\n(BCI) competition&minus;show statistically significant gains in\nclassification accuracy, with a reduction in overall classification\nerror from 26%-28% to 19%.",
+    "authors": [
+        "Christoforos Christoforou",
+        "Robert Haralick",
+        "Paul Sajda",
+        "Lucas C. Parra"
+    ],
+    "id": "christoforou10a",
+    "issue": 20,
+    "pages": [
+        665,
+        685
+    ],
+    "title": "Second-Order Bilinear Discriminant Analysis",
+    "volume": "11",
+    "year": "2010"
+}

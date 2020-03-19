@@ -1,0 +1,18 @@
+{
+    "abstract": "Learning a measure of similarity between pairs of objects is an\nimportant generic problem in machine learning. It is particularly\nuseful in large scale applications like searching for an image that\nis similar to a given image or finding videos that are relevant to a\ngiven video. In these tasks, users look for objects that are not\nonly visually similar but also semantically related to a given\nobject.  Unfortunately, the approaches that exist today for learning\nsuch semantic similarity do not scale to large data sets. This is\nboth because typically their CPU and storage requirements grow\nquadratically with the sample size, and because many methods impose\ncomplex positivity constraints on the space of learned similarity\nfunctions.\n\n<br>\n\nThe current paper presents OASIS, an <i>Online Algorithm for\nScalable Image Similarity</i> learning that learns a bilinear\nsimilarity measure over sparse representations. OASIS is an online\ndual approach using the passive-aggressive family of learning\nalgorithms with a large margin criterion and an efficient hinge loss\ncost. Our experiments show that OASIS is both fast and accurate at a\nwide range of scales: for a data set with thousands of images, it\nachieves better results than existing state-of-the-art methods,\nwhile being an order of magnitude faster. For large, web scale,\ndata sets, OASIS can be trained on more than two million images from\n150K text queries within 3 days on a single CPU.  On this large\nscale data set, human evaluations showed that 35% of the ten nearest\nneighbors of a given test image, as found by OASIS, were\nsemantically relevant to that image. This suggests that query\nindependent similarity could be accurately learned even for large\nscale data sets that could not be handled before.",
+    "authors": [
+        "Gal Chechik",
+        "Varun Sharma",
+        "Uri Shalit",
+        "Samy Bengio"
+    ],
+    "id": "chechik10a",
+    "issue": 35,
+    "pages": [
+        1109,
+        1135
+    ],
+    "title": "Large Scale Online Learning of Image Similarity Through Ranking",
+    "volume": "11",
+    "year": "2010"
+}

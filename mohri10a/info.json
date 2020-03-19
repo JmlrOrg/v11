@@ -1,0 +1,16 @@
+{
+    "abstract": "Most generalization bounds in learning theory are based on some\n  measure of the complexity of the hypothesis class used,\n  independently of any algorithm. In contrast, the notion of\n  algorithmic stability can be used to derive tight generalization\n  bounds that are tailored to specific learning algorithms by\n  exploiting their particular properties. However, as in much of\n  learning theory, existing stability analyses and bounds apply only\n  in the scenario where the samples are independently and identically\n  distributed. In many machine learning applications, however, this\n  assumption does not hold. The observations received by the learning\n  algorithm often have some inherent temporal dependence.\n\n<br>\n\n  This paper studies the scenario where the observations are drawn\n  from a stationary &#966;-mixing or &#946;-mixing sequence, a\n  widely adopted assumption in the study of non-i.i.d. processes that\n  implies a dependence between observations weakening over time.  We\n  prove novel and distinct stability-based generalization bounds for\n  stationary &#966;-mixing and &#946;-mixing sequences. These\n  bounds strictly generalize the bounds given in the i.i.d. case and\n  apply to all stable learning algorithms, thereby extending the\n  use of stability-bounds to non-i.i.d. scenarios.\n\n<br>\n\n  We also illustrate the application of our &#966;-mixing\n  generalization bounds to general classes of learning algorithms,\n  including Support Vector Regression, Kernel Ridge Regression, and\n  Support Vector Machines, and many other kernel regularization-based\n  and relative entropy-based regularization algorithms.  These novel\n  bounds can thus be viewed as the first theoretical basis for the use\n  of these algorithms in non-i.i.d. scenarios.",
+    "authors": [
+        "Mehryar Mohri",
+        "Afshin Rostamizadeh"
+    ],
+    "id": "mohri10a",
+    "issue": 25,
+    "pages": [
+        789,
+        814
+    ],
+    "title": "Stability Bounds for Stationary &#966;-mixing and &#946;-mixing Processes",
+    "volume": "11",
+    "year": "2010"
+}

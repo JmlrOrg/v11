@@ -1,0 +1,19 @@
+{
+    "abstract": "In part I of this work we introduced and evaluated the <i>Generalized\nLocal Learning</i> (GLL) framework for producing local causal and Markov\nblanket induction algorithms. In the present second part we analyze\nthe behavior of GLL algorithms and provide extensions to the core\nmethods. Specifically, we investigate the empirical convergence of\nGLL to the true local neighborhood as a function of sample size.\nMoreover, we study how predictivity improves with increasing sample\nsize. Then we investigate how sensitive are the algorithms to\nmultiple statistical testing, especially in the presence of many\nirrelevant features. Next we discuss the role of the algorithm\nparameters and also show that Markov blanket and causal graph\nconcepts can be used to understand deviations from optimality of\nstate-of-the-art non-causal algorithms. The present paper also\nintroduces the following extensions to the core GLL framework:\nparallel and distributed versions of GLL algorithms, versions with\nfalse discovery rate control, strategies for constructing novel\nheuristics for specific domains, and divide-and-conquer\n<i>local-to-global learning</i> (LGL) strategies. We test the\ngenerality of the LGL approach by deriving a novel LGL-based\nalgorithm that compares favorably to the state-of-the-art global\nlearning algorithms. In addition, we investigate the use of\nnon-causal feature selection methods to facilitate global learning.\nOpen problems and future research paths related to local and\nlocal-to-global causal learning are discussed.",
+    "authors": [
+        "Constantin F. Aliferis",
+        "Alexander Statnikov",
+        "Ioannis Tsamardinos",
+        "Subramani Mani",
+        "Xenofon D. Koutsoukos"
+    ],
+    "id": "aliferis10b",
+    "issue": 7,
+    "pages": [
+        235,
+        284
+    ],
+    "title": "Local Causal and Markov Blanket Induction for Causal Discovery and Feature Selection for Classification Part II: Analysis and Extensions",
+    "volume": "11",
+    "year": "2010"
+}

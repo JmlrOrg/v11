@@ -1,0 +1,19 @@
+{
+    "abstract": "Nonlinear dimensionality reduction methods are often used to visualize\nhigh-dimensional data, although the existing methods have been\ndesigned for other related tasks such as manifold learning. It has\nbeen difficult to assess the quality of visualizations since the task\nhas not been well-defined. We give a rigorous definition for a\nspecific visualization task, resulting in quantifiable goodness\nmeasures and new visualization methods. The task is <i>information\nretrieval</i> given the visualization: to find similar data based on the\nsimilarities shown on the display. The fundamental tradeoff between\nprecision and recall of information retrieval can then be quantified\nin visualizations as well. The user needs to give the relative cost of\nmissing similar points vs. retrieving dissimilar points, after which\nthe total cost can be measured. We then introduce a new method NeRV\n(<i>neighbor retrieval visualizer</i>) which produces an optimal \nvisualization by minimizing the cost. We further derive a variant for supervised\nvisualization; class information is taken rigorously into account when\ncomputing the similarity relationships. We show empirically that the\nunsupervised version outperforms existing unsupervised dimensionality\nreduction methods in the visualization task, and the supervised\nversion outperforms existing supervised methods.",
+    "authors": [
+        "Jarkko Venna",
+        "Jaakko Peltonen",
+        "Kristian Nybo",
+        "Helena Aidos",
+        "Samuel Kaski"
+    ],
+    "id": "venna10a",
+    "issue": 12,
+    "pages": [
+        451,
+        490
+    ],
+    "title": "Information Retrieval Perspective to Nonlinear Dimensionality Reduction for Data Visualization",
+    "volume": "11",
+    "year": "2010"
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "Bagging is a simple way to combine estimates in order to improve their performance. This method, suggested by Breiman in 1996, proceeds by resampling from the original data set, constructing a predictor from each subsample, and decide by combining. By bagging an <i>n</i>-sample, the crude nearest neighbor regression estimate is turned into a consistent weighted nearest neighbor regression estimate, which is amenable to statistical analysis. Letting the resampling size <i>k<sub>n</sub></i> grows appropriately with <i>n</i>, it is shown that this estimate may achieve optimal rate of convergence, independently from the fact that resampling is done with or without replacement. Since the estimate with the optimal rate of convergence depends on the unknown distribution of the observations, adaptation results by data-splitting are presented.",
+    "authors": [
+        "G&#233;rard Biau",
+        "Fr&#233;d&#233;ric C&#233;rou",
+        "Arnaud Guyader"
+    ],
+    "id": "biau10a",
+    "issue": 21,
+    "pages": [
+        687,
+        712
+    ],
+    "title": "On the Rate of Convergence of the Bagged Nearest Neighbor Estimate",
+    "volume": "11",
+    "year": "2010"
+}

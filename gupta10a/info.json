@@ -1,0 +1,17 @@
+{
+    "abstract": "Many structured information extraction tasks employ collective graphical models that capture inter-instance associativity by coupling them with various clique potentials.  We propose tractable families of such potentials that are invariant under permutations of their arguments, and call them <i>symmetric clique potentials</i>.  We present three families of symmetric potentials&minus;MAX, SUM, and MAJORITY.\n<br>\nWe propose cluster message passing for collective inference with symmetric clique potentials, and present message computation algorithms tailored to such potentials.  Our first message computation algorithm, called &#945;-pass, is sub-quadratic in the clique size, outputs exact messages for MAX, and computes 13/15-approximate messages for Potts, a popular member of the SUM family.  Empirically, it is upto two orders of magnitude faster than existing algorithms based on graph-cuts or belief propagation.  Our second algorithm, based on Lagrangian relaxation, operates on MAJORITY potentials and provides close to exact solutions while being two orders of magnitude faster. We show that the cluster message passing framework is more principled, accurate and converges faster than competing approaches.\n<br>\nWe extend our collective inference framework to exploit associativity of more general <i>intra-domain properties</i> of instance labelings, which opens up interesting applications in domain adaptation.  Our approach leads to significant error reduction on unseen domains without incurring any overhead of model retraining.",
+    "authors": [
+        "Rahul Gupta",
+        "Sunita Sarawagi",
+        "Ajit A. Diwan"
+    ],
+    "id": "gupta10a",
+    "issue": 102,
+    "pages": [
+        3097,
+        3135
+    ],
+    "title": "Collective Inference for  Extraction MRFs Coupled with Symmetric Clique Potentials",
+    "volume": "11",
+    "year": "2010"
+}

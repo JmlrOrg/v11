@@ -1,0 +1,17 @@
+{
+    "abstract": "We use convex relaxation techniques to provide a sequence of\nregularized low-rank solutions for large-scale matrix completion\nproblems. Using the nuclear norm as a regularizer, we provide a\nsimple and very efficient convex algorithm for minimizing the\nreconstruction error subject to a bound on the nuclear norm. Our\nalgorithm SOFT-IMPUTE iteratively replaces the missing\nelements with those obtained from a soft-thresholded SVD. With warm\nstarts this allows us to efficiently compute an entire\nregularization path of solutions on a grid of values of the\nregularization parameter. The computationally intensive part of our\nalgorithm is in computing a low-rank SVD of a dense matrix.\nExploiting the problem structure, we show that the task can be\nperformed with a complexity of order linear in the matrix dimensions.  Our\nsemidefinite-programming algorithm is readily scalable to large\nmatrices; for example SOFT-IMPUTE takes a few hours to compute low-rank approximations\nof a <i>10<sup>6</sup></i> X <i>10<sup>6</sup></i> incomplete matrix with <i>10<sup>7</sup></i> observed entries, and fits a rank-<i>95</i> approximation to the\nfull Netflix training set in <i>3.3</i> hours.\nOur methods achieve good training and test errors and exhibit superior timings when compared to other competitive state-of-the-art\ntechniques.",
+    "authors": [
+        "Rahul Mazumder",
+        "Trevor Hastie",
+        "Robert Tibshirani"
+    ],
+    "id": "mazumder10a",
+    "issue": 79,
+    "pages": [
+        2287,
+        2322
+    ],
+    "title": "Spectral Regularization Algorithms for Learning Large Incomplete Matrices",
+    "volume": "11",
+    "year": "2010"
+}

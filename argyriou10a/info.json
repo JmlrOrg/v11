@@ -1,0 +1,17 @@
+{
+    "abstract": "In this paper, we study the problem of learning a matrix\n<i>W</i> from a set of linear measurements. Our formulation consists in\nsolving an optimization problem which involves regularization with a\nspectral penalty term. That is, the penalty term is a function of the\nspectrum of the covariance of <i>W</i>. Instances of this problem in\nmachine learning include multi-task learning, collaborative filtering\nand multi-view learning, among others. Our goal is to elucidate the\nform of the optimal solution of spectral learning. The theory of\nspectral learning relies on the von Neumann characterization of\northogonally invariant norms and their association with symmetric\ngauge functions. Using this tool we formulate a representer theorem\nfor spectral regularization and specify it to several useful example,\nsuch as Schatten <i>p</i>-norms, trace norm and spectral norm, which should\nproved useful in applications.",
+    "authors": [
+        "Andreas Argyriou",
+        "Charles A. Micchelli",
+        "Massimiliano Pontil"
+    ],
+    "id": "argyriou10a",
+    "issue": 30,
+    "pages": [
+        935,
+        953
+    ],
+    "title": "On Spectral Learning",
+    "volume": "11",
+    "year": "2010"
+}

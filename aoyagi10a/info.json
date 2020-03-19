@@ -1,0 +1,15 @@
+{
+    "abstract": "In this paper, we consider the asymptotic \nform of the generalization error \nfor the restricted Boltzmann machine \nin Bayesian estimation.\nIt has been shown that \nobtaining the maximum pole of \nzeta functions is related to the asymptotic \nform of the generalization error for \nhierarchical learning models (Watanabe, 2001a,b).\nThe\nzeta function\nis defined by using a Kullback function.\nWe use two methods to obtain  the maximum pole:\na new eigenvalue analysis method and \na recursive blowing up process.\nWe show that these methods are effective \nfor obtaining the asymptotic \nform of the generalization error\nof hierarchical learning models.",
+    "authors": [
+        "Miki Aoyagi"
+    ],
+    "id": "aoyagi10a",
+    "issue": 40,
+    "pages": [
+        1243,
+        1272
+    ],
+    "title": "Stochastic Complexity and Generalization Error of a Restricted Boltzmann Machine in Bayesian Estimation",
+    "volume": "11",
+    "year": "2010"
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": "The problems of dimension reduction and inference of statistical\ndependence are addressed by the modeling framework of learning\ngradients. The models we propose hold for Euclidean spaces as well\nas the manifold setting. The central quantity in this approach is an\nestimate of the gradient of the regression or classification\nfunction. Two quadratic forms are constructed from gradient\nestimates: the gradient outer product and gradient based diffusion\nmaps. The first quantity can be used for supervised dimension\nreduction on manifolds as well as inference of a graphical model\nencoding dependencies that are predictive of a response variable.\nThe second quantity can be used for nonlinear projections that\nincorporate both the geometric structure of the manifold as well as\nvariation of the response variable on the manifold. We relate the\ngradient outer product to standard statistical quantities such as\ncovariances and provide a simple and precise comparison of a variety\nof supervised dimensionality reduction methods. We provide rates of\nconvergence for both inference of informative directions as well as\ninference of a graphical model of variable dependencies.",
+    "authors": [
+        "Qiang Wu",
+        "Justin Guinney",
+        "Mauro Maggioni",
+        "Sayan Mukherjee"
+    ],
+    "id": "wu10a",
+    "issue": 74,
+    "pages": [
+        2175,
+        2198
+    ],
+    "title": "Learning Gradients: Predictive Models that Infer Geometry and Statistical Dependence",
+    "volume": "11",
+    "year": "2010"
+}

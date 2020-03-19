@@ -1,0 +1,19 @@
+{
+    "abstract": "We present a continuous time Bayesian network reasoning and learning\nengine (CTBN-RLE).  A continuous time Bayesian network (CTBN) provides\na compact (factored) description of a continuous-time Markov process.\nThis software provides libraries and programs for most of the algorithms\ndeveloped for CTBNs.  For learning, CTBN-RLE implements structure and\nparameter learning for both complete and partial data.  For inference,\nit implements exact inference and Gibbs and importance sampling\napproximate inference for any type of evidence pattern.  Additionally,\nthe library supplies visualization methods for graphically displaying CTBNs\nor trajectories of evidence.",
+    "authors": [
+        "Christian R. Shelton",
+        "Yu Fan",
+        "William Lam",
+        "Joon Lee",
+        "Jing Xu"
+    ],
+    "id": "shelton10a",
+    "issue": 36,
+    "pages": [
+        1137,
+        1140
+    ],
+    "title": "Continuous Time Bayesian Network Reasoning and Learning Engine",
+    "volume": "11",
+    "year": "2010"
+}

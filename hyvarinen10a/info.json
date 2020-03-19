@@ -1,0 +1,18 @@
+{
+    "abstract": "Analysis of causal effects between continuous-valued variables\n  typically uses either autoregressive models or structural equation\n  models with instantaneous effects. Estimation of Gaussian, linear\n  structural equation models poses serious identifiability problems,\n  which is why it was recently proposed to use non-Gaussian\n  models. Here, we show how to combine the non-Gaussian instantaneous\n  model with autoregressive models. This is effectively what is called\n  a structural vector autoregression (SVAR) model, and thus our work\n  contributes to the long-standing problem of how to estimate\n  SVAR's. We show that such a non-Gaussian model is identifiable\n  without prior knowledge of network structure. We propose\n  computationally efficient methods for estimating the model, as well\n  as methods to assess the significance of the causal influences. The\n  model is successfully applied on financial and brain imaging data.",
+    "authors": [
+        "Aapo Hyv&#228;rinen",
+        "Kun Zhang",
+        "Shohei Shimizu",
+        "Patrik O. Hoyer"
+    ],
+    "id": "hyvarinen10a",
+    "issue": 55,
+    "pages": [
+        1709,
+        1731
+    ],
+    "title": "Estimation of a Structural Vector Autoregression Model Using Non-Gaussianity",
+    "volume": "11",
+    "year": "2010"
+}

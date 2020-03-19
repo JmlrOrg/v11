@@ -1,0 +1,21 @@
+{
+    "abstract": "For many supervised learning tasks it may be infeasible (or very\nexpensive) to obtain objective and reliable labels. Instead, we can collect subjective (possibly noisy)\nlabels from multiple experts or annotators. In practice, there is  a\nsubstantial amount of disagreement among the annotators, and hence it is\nof great practical interest to address conventional supervised learning problems in\nthis scenario. In this paper we describe a probabilistic approach for supervised learning when we have multiple annotators providing (possibly noisy) labels but no absolute gold standard. The proposed algorithm evaluates the different experts and also gives an estimate of the actual hidden labels. Experimental results indicate that the proposed method is superior to the commonly used majority voting baseline.",
+    "authors": [
+        "Vikas C. Raykar",
+        "Shipeng Yu",
+        "Linda H. Zhao",
+        "Gerardo Hermosillo Valadez",
+        "Charles Florin",
+        "Luca Bogoni",
+        "Linda Moy"
+    ],
+    "id": "raykar10a",
+    "issue": 42,
+    "pages": [
+        1297,
+        1322
+    ],
+    "title": "Learning From Crowds",
+    "volume": "11",
+    "year": "2010"
+}

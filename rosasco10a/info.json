@@ -1,0 +1,17 @@
+{
+    "abstract": "A large number of learning algorithms, for example, spectral clustering, kernel Principal Components Analysis and many \nmanifold methods are based on estimating eigenvalues and eigenfunctions of operators defined \nby a similarity function or a kernel, given empirical data. Thus for the analysis of algorithms, it is an important \nproblem to be able to assess the  quality of such approximations.\nThe contribution of our paper is two-fold:\n<br>\n1. We use a technique based on a concentration inequality for Hilbert spaces to provide \nnew much simplified proofs for a number of results in  spectral approximation.\n<br>\n2. Using these methods we provide several new results for estimating spectral properties of the graph \nLaplacian operator extending and strengthening results from von Luxburg et al. (2008).",
+    "authors": [
+        "Lorenzo Rosasco",
+        "Mikhail Belkin",
+        "Ernesto De Vito"
+    ],
+    "id": "rosasco10a",
+    "issue": 29,
+    "pages": [
+        905,
+        934
+    ],
+    "title": "On Learning with Integral Operators",
+    "volume": "11",
+    "year": "2010"
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "A continuous time Bayesian network (CTBN) uses a structured representation\nto describe a dynamic system with a finite number of states which evolves\nin continuous time.  Exact inference in a CTBN is often intractable\nas the state space of the dynamic system grows exponentially with the\nnumber of variables. In this paper, we first present an approximate\ninference algorithm based on importance sampling. We then extend it to\ncontinuous-time particle filtering and smoothing algorithms. These three\nalgorithms can estimate the expectation of any function of a trajectory,\nconditioned on any evidence set constraining the values of subsets of the\nvariables over subsets of the time line. We present experimental results\non both synthetic networks and a network learned from a real data set on\npeople's life history events. We show the accuracy as well as the time\nefficiency of our algorithms, and compare them to other approximate\nalgorithms: expectation propagation and Gibbs sampling.",
+    "authors": [
+        "Yu Fan",
+        "Jing Xu",
+        "Christian R. Shelton"
+    ],
+    "id": "fan10a",
+    "issue": 71,
+    "pages": [
+        2115,
+        2140
+    ],
+    "title": "Importance Sampling for Continuous Time Bayesian Networks",
+    "volume": "11",
+    "year": "2010"
+}

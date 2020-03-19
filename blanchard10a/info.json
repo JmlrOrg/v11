@@ -1,0 +1,17 @@
+{
+    "abstract": "A common setting for novelty detection assumes that labeled examples from the nominal class are available, but that labeled examples of novelties are unavailable. The standard (inductive) approach is to declare novelties where the nominal density is low, which reduces the problem to density level set estimation. In this paper, we consider the setting where an unlabeled and possibly contaminated sample is also available at learning time. We argue that novelty detection in this semi-supervised setting is naturally solved by a general reduction to a binary classification problem. In particular, a detector with a desired false positive rate can be achieved through a reduction to Neyman-Pearson classification. Unlike the inductive approach, semi-supervised novelty detection (SSND) yields detectors that are optimal (e.g., statistically consistent) regardless of the distribution on novelties. Therefore, in novelty detection, unlabeled data have a substantial impact on the theoretical properties of the decision rule. We validate the practical utility of SSND with an extensive experimental study.\n<br>\nWe also show that SSND provides distribution-free, learning-theoretic solutions to two well known problems in hypothesis testing. First, our results provide a general solution to the general two-sample problem, that is, the problem of determining whether two random samples arise from the same distribution. Second, a specialization of SSND coincides with the standard <i>p</i>-value approach to multiple testing under the so-called random effects model. Unlike standard rejection regions based on thresholded <i>p</i>-values, the general SSND framework allows for adaptation to arbitrary alternative distributions in multiple dimensions.",
+    "authors": [
+        "Gilles Blanchard",
+        "Gyemin Lee",
+        "Clayton Scott"
+    ],
+    "id": "blanchard10a",
+    "issue": 98,
+    "pages": [
+        2973,
+        3009
+    ],
+    "title": "Semi-Supervised Novelty Detection",
+    "volume": "11",
+    "year": "2010"
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "For undiscounted reinforcement learning in Markov decision\nprocesses (MDPs) we consider the <i>total regret</i> of\na learning algorithm with respect to an optimal policy.\nIn order to describe the transition structure of an MDP we propose a new parameter:\nAn MDP has <i>diameter</i> <i>D</i> if for any pair of states <i>s,s'</i> there is\na policy which moves from <i>s</i> to <i>s'</i> in at most <i>D</i> steps (on average).\nWe present a reinforcement learning algorithm with total regret\n<i>&#213;(DS&#8730;AT)</i> after <i>T</i> steps for any unknown MDP\nwith <i>S</i> states, <i>A</i> actions per state, and diameter <i>D</i>.\nA corresponding lower bound of <i>&#937;(&#8730;DSAT)</i> on the\ntotal regret of any learning algorithm is given as well.\n\n<br>\n\nThese results are complemented by a sample complexity bound on the\nnumber of suboptimal steps taken by our algorithm. This bound can be\nused to achieve a (gap-dependent) regret bound that is logarithmic in <i>T</i>.\n\n<br>\n\nFinally, we also consider a setting where the MDP is allowed to change\na fixed number of <i>l</i> times. We present a modification of our algorithm\nthat is able to deal with this setting and show a regret bound of\n<i>&#213;(l<sup>1/3</sup>T<sup>2/3</sup>DS&#8730;A)</i>.",
+    "authors": [
+        "Thomas Jaksch",
+        "Ronald Ortner",
+        "Peter Auer"
+    ],
+    "id": "jaksch10a",
+    "issue": 50,
+    "pages": [
+        1563,
+        1600
+    ],
+    "title": "Near-optimal Regret Bounds for Reinforcement Learning",
+    "volume": "11",
+    "year": "2010"
+}

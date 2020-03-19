@@ -1,0 +1,16 @@
+{
+    "abstract": "In multivariate regression models we have the opportunity to look for hidden\nstructure unrelated to the observed predictors. However, when one fits a model\ninvolving such latent variables it is important to be able to tell if the\nstructure is real, or just an artifact of correlation in the regression errors.\nWe develop a new statistical test based on random rotations for verifying the \nexistence of latent variables. The rotations are carefully constructed to\nrotate orthogonally to the column space of the regression model. We find that only non-Gaussian\nlatent variables are detectable, a finding that parallels a well known\nphenomenon in independent components analysis. We base our test on a measure\nof non-Gaussianity in the histogram\nof the principal eigenvector components instead of on the eigenvalue.\nThe method finds and\nverifies some latent dichotomies in the microarray data from the\nAGEMAP consortium.",
+    "authors": [
+        "Patrick O. Perry",
+        "Art B. Owen"
+    ],
+    "id": "perry10a",
+    "issue": 17,
+    "pages": [
+        603,
+        624
+    ],
+    "title": "A Rotation Test to Verify Latent Structure",
+    "volume": "11",
+    "year": "2010"
+}

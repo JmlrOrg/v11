@@ -1,0 +1,19 @@
+{
+    "abstract": "We describe version 2.0 of the R add-on package <i>mboost</i>.\nThe package implements boosting for optimizing general risk functions using\ncomponent-wise (penalized) least squares estimates or regression\ntrees as base-learners for fitting generalized linear, additive\nand interaction models to potentially high-dimensional data.",
+    "authors": [
+        "Torsten Hothorn",
+        "Peter B&#252;hlmann",
+        "Thomas Kneib",
+        "Matthias Schmid",
+        "Benjamin Hofner"
+    ],
+    "id": "hothorn10a",
+    "issue": 70,
+    "pages": [
+        2109,
+        2113
+    ],
+    "title": "Model-based Boosting 2.0",
+    "volume": "11",
+    "year": "2010"
+}

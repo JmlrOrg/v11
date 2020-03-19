@@ -1,0 +1,16 @@
+{
+    "abstract": "We consider <i>selective classification</i>, a term we adopt here to refer to 'classification with a reject option.' The essence in selective classification is to trade-off classifier\ncoverage for higher accuracy.  We term this trade-off the <i>risk-coverage (RC) trade-off</i>.\nOur main objective is to characterize this trade-off and to construct algorithms that can optimally or near\noptimally achieve the best possible trade-offs in a controlled manner.\nFor noise-free models we present in this paper\na thorough analysis of selective classification including characterizations of RC trade-offs\nin various interesting settings.",
+    "authors": [
+        "Ran El-Yaniv",
+        "Yair Wiener"
+    ],
+    "id": "el-yaniv10a",
+    "issue": 52,
+    "pages": [
+        1605,
+        1641
+    ],
+    "title": "On the Foundations of Noise-free Selective Classification",
+    "volume": "11",
+    "year": "2010"
+}

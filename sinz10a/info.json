@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper, we introduce a new family of probability densities called <i>L<sub>p</sub></i>-nested symmetric distributions. The common property, shared by all members of the new class, is the same functional form <i>&#961;(<b>x</b>) = ~&#961;(f(<b>x</b>))</i>, where <i>f</i> is a nested cascade of <i>L<sub>p</sub></i>-norms <i>||<b>x</b>||<sub>p</sub> = (&#8721; |x<sub>i</sub>|<sup>p</sup>)<sup>1/p</sup></i>. <i>L<sub>p</sub></i>-nested symmetric distributions thereby are a special case of <i>&#957;</i>-spherical distributions for which <i>f</i> is only required to be positively homogeneous of degree one. While both, <i>&#957;</i>-spherical and <i>L<sub>p</sub></i>-nested symmetric distributions, contain many widely used families of probability models such as the Gaussian, spherically and elliptically symmetric distributions, <i>L<sub>p</sub></i>-spherically symmetric distributions, and certain types of independent component analysis (ICA) and independent subspace analysis (ISA) models, <i>&#957;</i>-spherical distributions are usually computationally intractable.  Here we demonstrate that <i>L<sub>p</sub></i>-nested symmetric distributions are still computationally feasible by deriving an analytic expression for its normalization constant, gradients for maximum likelihood estimation, analytic expressions for certain types of marginals, as well as an exact and efficient sampling algorithm. We discuss the tight links of <i>L<sub>p</sub></i>-nested symmetric distributions to well known machine learning methods such as ICA, ISA and mixed norm regularizers, and introduce the nested radial factorization algorithm (NRF), which is a form of non-linear ICA that transforms any linearly mixed, non-factorial <i>L<sub>p</sub></i>-nested symmetric source into statistically independent signals. As a corollary, we also introduce the uniform distribution on the <i>L<sub>p</sub></i>-nested unit sphere.",
+    "authors": [
+        "Fabian Sinz",
+        "Matthias Bethge"
+    ],
+    "id": "sinz10a",
+    "issue": 110,
+    "pages": [
+        3409,
+        3451
+    ],
+    "title": "<i>L<sub>p</sub></i>-Nested Symmetric Distributions",
+    "volume": "11",
+    "year": "2010"
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": "The topic of the paper is computer testing of (probabilistic) <i>conditional independence</i> (CI) implications by an algebraic method of structural imsets. The basic idea is to transform (sets of) CI statements into certain integral vectors and to verify by a computer the corresponding algebraic relation between the vectors, called the <i>independence implication</i>.  We interpret the previous methods for computer testing of this implication from the point of view of polyhedral geometry. However, the main contribution of the paper is a new method, based on <i>linear programming</i> (LP). The new method overcomes the limitation of former methods to the number of involved variables.  We recall/describe the theoretical basis for all four methods involved in our computational experiments, whose aim was to compare the efficiency of the algorithms. The experiments show that the LP method is clearly the fastest one.  As an example of possible application of such algorithms we show that testing inclusion of Bayesian network structures or whether a CI statement is encoded in an acyclic directed graph can be done by the algebraic method.",
+    "authors": [
+        "Remco Bouckaert",
+        "Raymond Hemmecke",
+        "Silvia Lindner",
+        "Milan Studen&#253;"
+    ],
+    "id": "bouckaert10b",
+    "issue": 111,
+    "pages": [
+        3453,
+        3479
+    ],
+    "title": "Efficient Algorithms for Conditional Independence Inference",
+    "volume": "11",
+    "year": "2010"
+}

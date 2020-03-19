@@ -1,0 +1,18 @@
+{
+    "abstract": "Identifying a subset of features that preserves classification accuracy\nis a problem of growing importance,\nbecause of the increasing size and dimensionality of real-world data sets. \nWe propose a new feature selection method,\nnamed Quadratic Programming Feature Selection (QPFS),\nthat reduces the task to a quadratic optimization problem.\nIn order to limit the computational complexity of \nsolving the optimization problem,\nQPFS uses the Nystr&#246;m method for approximate matrix diagonalization.\nQPFS is thus capable of dealing with very large data sets,\nfor which the use of other methods is computationally expensive. \nIn experiments with small and medium data sets,\nthe QPFS method leads to classification accuracy similar to \nthat of other successful techniques. \nFor large data sets, QPFS is superior in terms of computational efficiency.",
+    "authors": [
+        "Irene Rodriguez-Lujan",
+        "Ramon Huerta",
+        "Charles Elkan",
+        "Carlos Santa Cruz"
+    ],
+    "id": "rodriguez-lujan10a",
+    "issue": 48,
+    "pages": [
+        1491,
+        1516
+    ],
+    "title": "Quadratic Programming Feature Selection",
+    "volume": "11",
+    "year": "2010"
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper, we propose a general framework for sparse\nsemi-supervised learning, which concerns using a small portion of\nunlabeled data and a few labeled data to represent target functions\nand thus has the merit of accelerating function evaluations when\npredicting the output of a new example. This framework makes use of\nFenchel-Legendre conjugates to rewrite a convex insensitive loss\ninvolving a regularization with unlabeled data, and is applicable to\na family of semi-supervised learning methods such as multi-view\nco-regularized least squares and single-view Laplacian support\nvector machines (SVMs). As an instantiation of this framework, we\npropose sparse multi-view SVMs which use a squared\n&#949;-insensitive loss. The resultant optimization is an\ninf-sup problem and the optimal solutions have arguably\nsaddle-point properties. We present a globally optimal iterative\nalgorithm to optimize the problem. We give the margin bound on the\ngeneralization error of the sparse multi-view SVMs, and derive the\nempirical Rademacher complexity for the induced function class.\nExperiments on artificial and real-world data show their\neffectiveness. We further give a sequential training approach to\nshow their possibility and potential for uses in large-scale\nproblems and provide encouraging experimental results indicating the\nefficacy of the margin bound and empirical Rademacher complexity on\ncharacterizing the roles of unlabeled data for semi-supervised\nlearning.",
+    "authors": [
+        "Shiliang Sun",
+        "John Shawe-Taylor"
+    ],
+    "id": "sun10a",
+    "issue": 83,
+    "pages": [
+        2423,
+        2455
+    ],
+    "title": "Sparse Semi-supervised Learning Using Conjugate Functions",
+    "volume": "11",
+    "year": "2010"
+}

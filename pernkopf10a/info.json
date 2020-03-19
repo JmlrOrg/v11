@@ -1,0 +1,16 @@
+{
+    "abstract": "We introduce a simple order-based greedy heuristic for learning\ndiscriminative structure within generative Bayesian network\nclassifiers.  We propose two methods for establishing an order of <i>N</i>\nfeatures. They are based on the conditional mutual information and\nclassification rate (i.e., risk), respectively. Given an ordering, we\ncan find a discriminative structure with\n<i>O(N<sup>k+1</sup>)</i> score evaluations (where constant <i>k</i>\nis the tree-width of the sub-graph over the attributes).  We present results on 25\ndata sets from the UCI repository, for phonetic classification using\nthe TIMIT database, for a visual surface inspection task, and for two\nhandwritten digit recognition tasks. We provide classification\nperformance for <i>both</i> discriminative <i>and</i>\ngenerative parameter learning on <i>both</i> discriminatively\n<i>and</i> generatively structured networks. The discriminative\nstructure found by our new procedures significantly outperforms\ngeneratively produced structures, and achieves a classification\naccuracy on par with the best discriminative (greedy) Bayesian\nnetwork learning approach, but does so with a factor of ~10-40\nspeedup. We also show that the advantages of generative\ndiscriminatively structured Bayesian network classifiers still hold in\nthe case of missing features, a case where generative classifiers have\nan advantage over discriminative classifiers.",
+    "authors": [
+        "Franz Pernkopf",
+        "Jeff A. Bilmes"
+    ],
+    "id": "pernkopf10a",
+    "issue": 80,
+    "pages": [
+        2323,
+        2360
+    ],
+    "title": "Efficient Heuristics for Discriminative Structure Learning of Bayesian Network Classifiers",
+    "volume": "11",
+    "year": "2010"
+}

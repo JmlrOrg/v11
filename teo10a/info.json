@@ -1,0 +1,18 @@
+{
+    "abstract": "A wide variety of machine learning problems can be described as\n  minimizing a regularized risk functional, with different algorithms\n  using different notions of risk and different regularizers. Examples\n  include linear Support Vector Machines (SVMs), Gaussian Processes,\n  Logistic Regression, Conditional Random Fields (CRFs), and Lasso\n  amongst others. This paper describes the theory and implementation of\n  a scalable and modular convex solver which solves all these estimation\n  problems. It can be parallelized on a cluster of workstations, allows\n  for data-locality, and can deal with regularizers such as <i>L</i><sub>1</sub> and\n  <i>L</i><sub>2</sub> penalties. In addition to the unified framework we present tight\n  convergence bounds, which show that our algorithm converges in\n  <i>O</i>(1/&#949;) steps to &#949; precision for general convex\n  problems and in <i>O</i>(log (1/&#949;)) steps for continuously\n  differentiable problems. We demonstrate the performance of our general\n  purpose solver on a variety of publicly available data sets.",
+    "authors": [
+        "Choon Hui Teo",
+        "S.V.N. Vishwanthan",
+        "Alex J. Smola",
+        "Quoc V. Le"
+    ],
+    "id": "teo10a",
+    "issue": 9,
+    "pages": [
+        311,
+        365
+    ],
+    "title": "Bundle Methods for Regularized Risk Minimization",
+    "volume": "11",
+    "year": "2010"
+}

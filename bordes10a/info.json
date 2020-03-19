@@ -1,0 +1,19 @@
+{
+    "abstract": "The SGD-QN algorithm described in Bordes et al. (2009)\ncontains a subtle flaw that prevents it from reaching its design goals.\nYet the flawed SGD-QN algorithm has worked well enough to be a winner of the first\nPascal Large Scale Learning Challenge (Sonnenburg et al., 2008).\nThis document clarifies the situation, proposes a corrected algorithm,\nand evaluates its performance.",
+    "authors": [
+        "Antoine Bordes",
+        "L&#233;on Bottou",
+        "Patrick Gallinari",
+        "Jonathan Chang",
+        "S. Alex Smith"
+    ],
+    "id": "bordes10a",
+    "issue": 76,
+    "pages": [
+        2229,
+        2240
+    ],
+    "title": "Erratum: SGDQN is Less Careful than Expected",
+    "volume": "11",
+    "year": "2010"
+}

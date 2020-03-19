@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper introduces a Bayesian algorithm for constructing predictive models from data that are optimized to predict a target variable well for a particular instance. This algorithm learns Markov blanket models, carries out Bayesian model averaging over a set of models to predict a target variable of the instance at hand, and employs an instance-specific heuristic to locate a set of suitable models to average over. We call this method the instance-specific Markov blanket (ISMB) algorithm. The ISMB algorithm was evaluated on 21 UCI data sets using five different performance measures and its performance was compared to that of several commonly used predictive algorithms, including naive Bayes, C4.5 decision tree, logistic regression, neural networks, <i>k</i>-Nearest Neighbor, Lazy Bayesian Rules, and AdaBoost. Over all the data sets, the ISMB algorithm performed better on average on all performance measures against all the comparison algorithms.",
+    "authors": [
+        "Shyam Visweswaran",
+        "Gregory F. Cooper"
+    ],
+    "id": "visweswaran10a",
+    "issue": 108,
+    "pages": [
+        3333,
+        3369
+    ],
+    "title": "Learning Instance-Specific Predictive Models",
+    "volume": "11",
+    "year": "2010"
+}

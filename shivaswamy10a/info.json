@@ -1,0 +1,16 @@
+{
+    "abstract": "Leading classification methods such as support vector machines\n  (SVMs) and their counterparts achieve strong generalization\n  performance by maximizing the margin of separation between data\n  classes. While the maximum margin approach has achieved promising\n  performance, this article identifies its sensitivity to affine\n  transformations of the data and to directions with large data\n  spread. Maximum margin solutions may be misled by the spread of data\n  and preferentially separate classes along large spread directions.\n  This article corrects these weaknesses by measuring margin not in\n  the absolute sense but rather only relative to the spread of data in\n  any projection direction. Maximum relative margin corresponds to a\n  data-dependent regularization on the classification function while\n  maximum absolute margin corresponds to an <i>l<sub>2</sub></i> norm constraint\n  on the classification function.  Interestingly, the proposed\n  improvements only require simple extensions to existing maximum\n  margin formulations and preserve the computational efficiency of\n  SVMs. Through the maximization of relative margin, surprising\n  performance gains are achieved on real-world problems such as digit,\n  text classification and on several other benchmark data sets.  In addition, \n  risk bounds are derived for the new formulation based on Rademacher averages.",
+    "authors": [
+        "Pannagadatta K. Shivaswamy",
+        "Tony Jebara"
+    ],
+    "id": "shivaswamy10a",
+    "issue": 24,
+    "pages": [
+        747,
+        788
+    ],
+    "title": "Maximum Relative Margin and Data-Dependent Regularization",
+    "volume": "11",
+    "year": "2010"
+}

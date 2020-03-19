@@ -1,0 +1,16 @@
+{
+    "abstract": "We describe a class of sparse latent factor models, called graphical factor models (GFMs), and relevant sparse learning algorithms for posterior mode estimation. Linear, Gaussian GFMs have <i>sparse, orthogonal</i> factor loadings matrices, that, in addition to sparsity of the implied covariance matrices, also\ninduce conditional independence structures via zeros in the implied precision matrices.  We describe the models\nand their use for robust estimation of sparse latent factor structure and data/signal reconstruction. We develop computational\nalgorithms for model exploration and posterior mode search, addressing the hard combinatorial optimization involved in the search over a huge space of potential sparse configurations. A mean-field variational technique coupled with annealing is\ndeveloped to successively generate \"artificial\" posterior distributions that, at the limiting temperature\nin the annealing schedule, define required posterior modes in the GFM parameter space. Several detailed\n empirical studies and comparisons to related approaches are discussed, including\nanalyses of handwritten digit image and cancer gene expression data.",
+    "authors": [
+        "Ryo Yoshida",
+        "Mike West"
+    ],
+    "id": "yoshida10a",
+    "issue": 58,
+    "pages": [
+        1771,
+        1798
+    ],
+    "title": "Bayesian Learning in Sparse Graphical Factor Models via Variational Mean-Field Annealing",
+    "volume": "11",
+    "year": "2010"
+}

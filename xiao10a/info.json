@@ -1,0 +1,15 @@
+{
+    "abstract": "We consider regularized stochastic learning and online optimization problems, where the objective function is the sum of two convex terms: one is the loss function of the learning task, and the other is a simple regularization term such as <i>l</i><sub>1</sub>-norm for promoting sparsity.  We develop extensions of Nesterov's dual averaging method, that can exploit the regularization structure in an online setting.  At each iteration of these methods, the learning variables are adjusted by solving a simple minimization problem that involves the running average of all past subgradients of the loss function and the whole regularization term, not just its subgradient.  In the case of <i>l</i><sub>1</sub>-regularization, our method is particularly effective in obtaining sparse solutions.  We show that these methods achieve the optimal convergence rates or regret bounds that are standard in the literature on stochastic and online convex optimization.  For stochastic learning problems in which the loss functions have Lipschitz continuous gradients, we also present an accelerated version of the dual averaging method.",
+    "authors": [
+        "Lin Xiao"
+    ],
+    "id": "xiao10a",
+    "issue": 87,
+    "pages": [
+        2543,
+        2596
+    ],
+    "title": "Dual Averaging Methods for Regularized Stochastic Learning and Online Optimization",
+    "volume": "11",
+    "year": "2010"
+}

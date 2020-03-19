@@ -1,0 +1,19 @@
+{
+    "abstract": "Kernel techniques have long been used in SVM to handle linearly inseparable \nproblems by transforming data to a high dimensional space,\nbut training and testing large data sets is often time consuming. In contrast, we \ncan efficiently train and test much larger data sets using linear SVM without \nkernels. In this work, we apply fast linear-SVM methods to the explicit form \nof polynomially mapped data and investigate implementation issues.\nThe approach enjoys fast training and testing,\nbut may sometimes achieve accuracy close to that of\nusing highly nonlinear kernels.\nEmpirical experiments show that the proposed method is useful \nfor certain large-scale data sets.\nWe successfully apply the proposed method to a natural language processing \n(NLP) application by improving the testing accuracy \nunder some training/testing speed requirements.",
+    "authors": [
+        "Yin-Wen Chang",
+        "Cho-Jui Hsieh",
+        "Kai-Wei Chang",
+        "Michael Ringgaard",
+        "Chih-Jen Lin"
+    ],
+    "id": "chang10a",
+    "issue": 47,
+    "pages": [
+        1471,
+        1490
+    ],
+    "title": "Training and Testing Low-degree Polynomial Data Mappings via Linear SVM",
+    "volume": "11",
+    "year": "2010"
+}

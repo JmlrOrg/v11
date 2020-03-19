@@ -1,0 +1,18 @@
+{
+    "abstract": "Maximum entropy (Maxent) is useful in natural language processing and\nmany other areas.  Iterative scaling (IS) methods are one of the most\npopular approaches to solve Maxent.  With many variants of IS\nmethods, it is difficult to understand them and see the differences.\nIn this paper, we create a general and unified framework for iterative\nscaling methods. This framework also connects iterative scaling and\ncoordinate descent methods.  We prove general convergence results for\nIS methods and analyze their computational complexity. Based on the\nproposed framework, we extend a coordinate descent method for linear\nSVM to Maxent. Results show that it is faster than existing iterative\nscaling methods.",
+    "authors": [
+        "Fang-Lan Huang",
+        "Cho-Jui Hsieh",
+        "Kai-Wei Chang",
+        "Chih-Jen Lin"
+    ],
+    "id": "huang10a",
+    "issue": 26,
+    "pages": [
+        815,
+        848
+    ],
+    "title": "Iterative Scaling and Coordinate Descent Methods for Maximum Entropy Models",
+    "volume": "11",
+    "year": "2010"
+}

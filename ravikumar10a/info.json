@@ -1,0 +1,17 @@
+{
+    "abstract": "The problem of computing a maximum a posteriori (MAP) configuration is\na central computational challenge associated with Markov random\nfields. There has been some focus on \"tree-based\" linear\nprogramming (LP) relaxations for the MAP problem. This paper develops\na family of super-linearly convergent algorithms for solving these\nLPs, based on proximal minimization schemes using Bregman divergences.\nAs with standard message-passing on graphs, the algorithms are\ndistributed and exploit the underlying graphical structure, and so\nscale well to large problems.  Our algorithms have a double-loop\ncharacter, with the outer loop corresponding to the proximal sequence,\nand an inner loop of cyclic Bregman projections used to compute each\nproximal update. We establish convergence guarantees for our algorithms, and illustrate their\nperformance via some simulations.  We also develop two classes of\nrounding schemes, deterministic and randomized, for obtaining integral configurations from the LP solutions.\nOur deterministic rounding schemes use a \"re-parameterization\" property\nof our algorithms so that when the LP solution is integral, the MAP\nsolution can be obtained even before the LP-solver converges to the\noptimum.  We also propose graph-structured randomized rounding schemes applicable to iterative LP-solving algorithms in general.\nWe analyze the performance of and report simulations comparing these rounding schemes.",
+    "authors": [
+        "Pradeep Ravikumar",
+        "Alekh Agarwal",
+        "Martin J. Wainwright"
+    ],
+    "id": "ravikumar10a",
+    "issue": 33,
+    "pages": [
+        1043,
+        1080
+    ],
+    "title": "Message-passing for Graph-structured Linear Programs: Proximal Methods and Rounding Schemes",
+    "volume": "11",
+    "year": "2010"
+}

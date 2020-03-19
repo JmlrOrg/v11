@@ -1,0 +1,15 @@
+{
+    "abstract": "Sequential algorithms of active learning based on the estimation of the\nlevel sets of the empirical risk are discussed in the paper. Localized\nRademacher complexities are used in the algorithms to estimate\nthe sample sizes\nneeded to achieve the required accuracy of learning in an adaptive way.\nProbabilistic\nbounds on the number of active examples have been proved and several\napplications to binary classification problems are considered.",
+    "authors": [
+        "Vladimir Koltchinskii"
+    ],
+    "id": "koltchinskii10a",
+    "issue": 84,
+    "pages": [
+        2457,
+        2485
+    ],
+    "title": "Rademacher Complexities and Bounding the Excess Risk in Active Learning",
+    "volume": "11",
+    "year": "2010"
+}

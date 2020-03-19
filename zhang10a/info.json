@@ -1,0 +1,15 @@
+{
+    "abstract": "We consider learning formulations with non-convex objective functions that often occur in practical applications. There are two approaches to this problem:\n\n<ul>\n<li> Heuristic methods such as gradient descent that only find a local minimum. A drawback of this approach is the lack of theoretical guarantee showing that the local minimum gives a good solution. </li>\n<li> Convex relaxation such as <i>L<sub>1</sub></i>-regularization that solves the problem under some conditions. However it often leads to a sub-optimal solution in reality. </li>\n</ul>\n\nThis paper tries to remedy the above gap between theory and practice.\nIn particular, we present a multi-stage convex relaxation scheme for solving problems with non-convex objective functions.\nFor learning formulations with\nsparse regularization, we analyze the behavior of a specific\nmulti-stage relaxation scheme.\nUnder appropriate conditions, we show that the local solution obtained by this procedure is superior to the global solution of the standard <i>L<sub>1</sub></i> convex relaxation for learning sparse targets.",
+    "authors": [
+        "Tong Zhang"
+    ],
+    "id": "zhang10a",
+    "issue": 34,
+    "pages": [
+        1081,
+        1107
+    ],
+    "title": "Analysis of Multi-stage Convex Relaxation for Sparse Regularization",
+    "volume": "11",
+    "year": "2010"
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": "<i>l<sub>1</sub></i>-regularized logistic regression, also known as sparse logistic regression, is widely used in machine learning, computer vision, data mining, bioinformatics and neural signal processing. The use of <i>l<sub>1</sub></i> regularization attributes attractive properties to the classifier, such as feature selection, robustness to noise, and as a result, classifier generality in the context of supervised learning.  When a sparse logistic regression problem has large-scale data in high dimensions, it is computationally expensive to minimize the non-differentiable <i>l<sub>1</sub></i>-norm in the objective function. Motivated by recent work (Koh et al., 2007; Hale et al., 2008), we propose a novel hybrid algorithm based on combining two types of optimization iterations: one being very fast and memory friendly while the other being slower but more accurate. Called hybrid iterative shrinkage (HIS), the resulting algorithm is comprised of a fixed point continuation phase and an interior point phase.  The first phase is based completely on memory efficient operations such as matrix-vector multiplications, while the second phase is based on a truncated Newton's method.  Furthermore, we show that various optimization techniques, including line search and continuation, can significantly accelerate convergence. The algorithm has global convergence at a geometric rate (a Q-linear rate in  optimization terminology). We present a  numerical comparison with several existing algorithms, including an analysis using benchmark data from the UCI machine learning repository, and show our algorithm is the most computationally efficient without loss of accuracy.",
+    "authors": [
+        "Jianing Shi",
+        "Wotao Yin",
+        "Stanley Osher",
+        "Paul Sajda"
+    ],
+    "id": "shi10a",
+    "issue": 22,
+    "pages": [
+        713,
+        741
+    ],
+    "title": "A Fast Hybrid Algorithm for Large-Scale <i>l<sub>1</sub></i>-Regularized Logistic Regression",
+    "volume": "11",
+    "year": "2010"
+}

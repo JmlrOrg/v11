@@ -1,0 +1,22 @@
+{
+    "abstract": "PyBrain is a versatile machine learning library for Python. Its goal is to provide\nflexible, easy-to-use yet still powerful algorithms for machine learning tasks, including\na variety of predefined environments and benchmarks to test and compare \nalgorithms. \nImplemented algorithms include Long Short-Term Memory (LSTM), policy gradient methods, (multidimensional) \nrecurrent neural networks and deep belief networks.",
+    "authors": [
+        "Tom Schaul",
+        "Justin Bayer",
+        "Daan Wierstra",
+        "Yi Sun",
+        "Martin Felder",
+        "Frank Sehnke",
+        "Thomas R&#252;ckstie&#223;",
+        "J&#252;rgen Schmidhuber"
+    ],
+    "id": "schaul10a",
+    "issue": 23,
+    "pages": [
+        743,
+        746
+    ],
+    "title": "PyBrain",
+    "volume": "11",
+    "year": "2010"
+}

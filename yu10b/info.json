@@ -1,0 +1,23 @@
+{
+    "abstract": "Microarray gene expressions provide new opportunities for molecular classification of heterogeneous diseases. Although various reported classification schemes show impressive performance, most existing gene selection methods are suboptimal and are not well-matched to the unique characteristics of the multicategory classification problem. Matched design of the gene selection method and a committee classifier is needed for identifying a small set of gene markers that achieve accurate multicategory classification while being both statistically reproducible and biologically plausible. We report a simpler and yet more accurate strategy than previous works for multicategory classification of heterogeneous diseases. Our method selects the union of one-versus-everyone (OVE) <i>phenotypic up-regulated</i> genes (PUGs) and matches this gene selection with a one-versus-rest support vector machine (OVRSVM). Our approach provides even-handed gene resources for discriminating both neighboring and well-separated classes. Consistent with the OVRSVM structure, we evaluated the fold changes of OVE gene expressions and found that only a small number of high-ranked genes were required to achieve superior accuracy for multicategory classification. We tested the proposed PUG-OVRSVM method on six real microarray gene expression data sets (five public benchmarks and one in-house data set) and two simulation data sets, observing significantly improved performance with lower error rates, fewer marker genes, and higher performance sustainability, as compared to several widely-adopted gene selection and classification methods. The MATLAB toolbox, experiment data and supplement files are available at http://www.cbil.ece.vt.edu/software.htm.",
+    "authors": [
+        "Guoqiang Yu",
+        "Yuanjian Feng",
+        "David J. Miller",
+        "Jianhua Xuan",
+        "Eric P. Hoffman",
+        "Robert Clarke",
+        "Ben Davidson",
+        "Ie-Ming Shih",
+        "Yue Wang"
+    ],
+    "id": "yu10b",
+    "issue": 72,
+    "pages": [
+        2141,
+        2167
+    ],
+    "title": "Matched Gene Selection and Committee Classifier for Molecular Classification of Heterogeneous Diseases",
+    "volume": "11",
+    "year": "2010"
+}

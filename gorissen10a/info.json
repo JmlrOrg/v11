@@ -1,0 +1,19 @@
+{
+    "abstract": "An exceedingly large number of scientific and engineering fields are\nconfronted with the need for computer simulations to study complex,\nreal world phenomena or solve challenging design problems. However,\ndue to the computational cost of these high fidelity simulations,\nthe use of neural networks, kernel methods, and other surrogate modeling\ntechniques have become indispensable. Surrogate models are compact\nand cheap to evaluate, and have proven very useful for tasks such\nas optimization, design space exploration, prototyping, and sensitivity\nanalysis. Consequently, in many fields there is great interest in\ntools and techniques that facilitate the construction of such regression\nmodels, while minimizing the computational cost and maximizing model\naccuracy. This paper presents a mature, flexible, and adaptive machine\nlearning toolkit for regression modeling and active learning to tackle\nthese issues. The toolkit brings together algorithms for data fitting,\nmodel selection, sample selection (active learning), hyperparameter\noptimization, and distributed computing in order to empower a domain\nexpert to efficiently generate an accurate model for the problem or\ndata at hand.",
+    "authors": [
+        "Dirk Gorissen",
+        "Ivo Couckuyt",
+        "Piet Demeester",
+        "Tom Dhaene",
+        "Karel Crombecq"
+    ],
+    "id": "gorissen10a",
+    "issue": 67,
+    "pages": [
+        2051,
+        2055
+    ],
+    "title": "A Surrogate Modeling and Adaptive Sampling Toolbox for Computer Based Design",
+    "volume": "11",
+    "year": "2010"
+}

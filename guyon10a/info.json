@@ -1,0 +1,18 @@
+{
+    "abstract": "The principle of parsimony also known as \"Ockham's razor\" has inspired many\ntheories of  model selection. Yet such theories, all making arguments in favor\nof parsimony, are based on very different premises and have developed distinct\nmethodologies to derive algorithms.  We have organized challenges and\nedited a special issue of JMLR and several conference proceedings around the\ntheme of model selection. In this editorial, we revisit the problem of\navoiding overfitting in light of the latest\nresults. We note the remarkable convergence of theories as different as\nBayesian theory, Minimum Description Length, bias/variance tradeoff,\nStructural Risk Minimization, and regularization, in some\napproaches.  We also present new and\ninteresting examples of the complementarity of theories leading to\nhybrid algorithms, neither frequentist, nor Bayesian, or perhaps\nboth frequentist and Bayesian!",
+    "authors": [
+        "Isabelle Guyon",
+        "Amir Saffari",
+        "Gideon Dror",
+        "Gavin Cawley"
+    ],
+    "id": "guyon10a",
+    "issue": 2,
+    "pages": [
+        61,
+        87
+    ],
+    "title": "Model Selection: Beyond the Bayesian/Frequentist Divide",
+    "volume": "11",
+    "year": "2010"
+}

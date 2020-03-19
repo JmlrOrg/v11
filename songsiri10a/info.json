@@ -1,0 +1,16 @@
+{
+    "abstract": "An algorithm is presented for topology selection in graphical models of autoregressive Gaussian time series.  The graph topology of the model represents the sparsity pattern of the inverse spectrum of the time series and characterizes conditional independence relations between the variables.  The method proposed in the paper is based on an <i>l</i><sub>1</sub>-type nonsmooth regularization of the conditional maximum likelihood estimation problem.   We show that this reduces to a convex optimization problem and describe a large-scale algorithm that solves the dual problem via the gradient projection method.  Results of experiments with randomly generated and real data sets are also included.",
+    "authors": [
+        "Jitkomut Songsiri",
+        "Lieven Vandenberghe"
+    ],
+    "id": "songsiri10a",
+    "issue": 90,
+    "pages": [
+        2671,
+        2705
+    ],
+    "title": "Topology Selection in Graphical Models of Autoregressive Processes",
+    "volume": "11",
+    "year": "2010"
+}

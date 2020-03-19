@@ -1,0 +1,17 @@
+{
+    "abstract": "The presence of asymmetry in the misclassification costs or class prevalences is a common occurrence in the pattern classification domain.  While much interest has been devoted to the study of <i>cost-sensitive learning</i> techniques, the relationship between cost-sensitive learning and the specification of the model set in a parametric estimation framework remains somewhat unclear.  To that end, we differentiate between the case of the model including the true posterior, and that in which the model is misspecified.  In the former case, it is shown that thresholding the maximum likelihood (ML) estimate is an asymptotically optimal solution to the risk minimization problem.  On the other hand, under model misspecification, it is demonstrated that thresholded ML is suboptimal and that the risk-minimizing solution varies with the misclassification cost ratio.  Moreover, we analytically show that the negative weighted log likelihood (Elkan, 2001) is a tight, convex upper bound of the empirical loss.  Coupled with empirical results on several real-world data sets, we argue that weighted ML is the preferred cost-sensitive technique.",
+    "authors": [
+        "Jacek P. Dmochowski",
+        "Paul Sajda",
+        "Lucas C. Parra"
+    ],
+    "id": "dmochowski10a",
+    "issue": 107,
+    "pages": [
+        3313,
+        3332
+    ],
+    "title": "Maximum Likelihood in Cost-Sensitive Learning: Model Specification, Approximations, and Upper Bounds",
+    "volume": "11",
+    "year": "2010"
+}

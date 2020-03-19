@@ -1,0 +1,17 @@
+{
+    "abstract": "PAC-Bayes bounds are among the most accurate\n  generalization bounds for classifiers learned from independently and\n  identically distributed (IID) data, and it\n  is particularly so for margin classifiers: there have been recent\n  contributions showing how practical these bounds can be either to\n  perform model selection (Ambroladze et al., 2007) or even to directly guide the\n  learning of linear classifiers (Germain et al., 2009). However, there are many\n  practical situations where the training data show some dependencies and\n  where the traditional IID assumption does not hold. Stating\n  generalization bounds for such frameworks is therefore of the utmost\n  interest, both from theoretical and practical standpoints.  In this\n  work, we propose the first&minus;to the best of our\n  knowledge&minus;PAC-Bayes  generalization bounds for classifiers trained on data\n  exhibiting interdependencies. The approach undertaken to establish our\n  results is based on the decomposition of a so-called dependency\n  graph that encodes the dependencies within the data, in sets of\n  independent data, thanks to graph <i>fractional covers</i>.  Our\n  bounds are very general, since being able to find an upper bound on\n  the fractional chromatic number of the dependency graph is\n  sufficient to get new PAC-Bayes bounds for specific settings.\n  We show how our results can be used to derive bounds for\n  ranking statistics (such as AUC) and classifiers trained on data\n  distributed according to a stationary\n  &#946;-mixing process. In the way, we show how our approach\n  seamlessly allows us to deal with U-processes. As a side note, we\n  also provide a PAC-Bayes generalization bound for classifiers\n  learned on data from stationary &#966;-mixing distributions.",
+    "authors": [
+        "Liva Ralaivola",
+        "Marie Szafranski",
+        "Guillaume Stempfel"
+    ],
+    "id": "ralaivola10a",
+    "issue": 64,
+    "pages": [
+        1927,
+        1956
+    ],
+    "title": "Chromatic PAC-Bayes Bounds for Non-IID Data: Applications to Ranking and Stationary &#946;-Mixing Processes",
+    "volume": "11",
+    "year": "2010"
+}

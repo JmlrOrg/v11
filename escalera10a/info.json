@@ -1,0 +1,17 @@
+{
+    "abstract": "In this paper, we present an open source Error-Correcting Output\nCodes (ECOC) library. The ECOC framework is a powerful tool to\ndeal with multi-class categorization problems. This library\ncontains both state-of-the-art coding (one-versus-one,\none-versus-all, dense random, sparse random, DECOC, forest-ECOC,\nand ECOC-ONE) and decoding designs (hamming, euclidean, inverse\nhamming, laplacian, &#946;-density, attenuated, loss-based,\nprobabilistic kernel-based, and loss-weighted) with the parameters\ndefined by the authors, as well as the option to include your own\ncoding, decoding, and base classifier.",
+    "authors": [
+        "Sergio Escalera",
+        "Oriol Pujol",
+        "Petia Radeva"
+    ],
+    "id": "escalera10a",
+    "issue": 19,
+    "pages": [
+        661,
+        664
+    ],
+    "title": "Error-Correcting Output Codes Library",
+    "volume": "11",
+    "year": "2010"
+}

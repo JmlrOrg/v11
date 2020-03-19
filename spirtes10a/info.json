@@ -1,0 +1,15 @@
+{
+    "abstract": "The goal of many sciences is to understand the mechanisms by which\nvariables came to take on the values they have (that is, to find a\ngenerative model), and to predict what the values of those variables\nwould be if the naturally occurring mechanisms were subject to outside\nmanipulations. The past 30 years has seen a number of conceptual\ndevelopments that are partial solutions to the problem of causal\ninference from observational sample data or a mixture of observational\nsample and experimental data, particularly in the area of graphical\ncausal modeling. However, in many domains, problems such as the large\nnumbers of variables, small samples sizes, and possible presence of\nunmeasured causes, remain serious impediments to practical applications\nof these developments. The articles in the Special Topic on Causality\naddress these and other problems in applying graphical causal modeling\nalgorithms. This introduction to the Special Topic on Causality\nprovides a brief introduction to graphical causal modeling, places the\narticles in a broader context, and describes the differences between\ncausal inference and ordinary machine learning classification and prediction problems.",
+    "authors": [
+        "Peter Spirtes"
+    ],
+    "id": "spirtes10a",
+    "issue": 53,
+    "pages": [
+        1643,
+        1662
+    ],
+    "title": "Introduction to Causal Inference",
+    "volume": "11",
+    "year": "2010"
+}

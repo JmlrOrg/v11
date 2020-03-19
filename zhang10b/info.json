@@ -1,0 +1,18 @@
+{
+    "abstract": "Fisher linear discriminant analysis (FDA) and its kernel\nextension&minus;kernel discriminant analysis (KDA)&minus;are well known\nmethods that consider dimensionality reduction and classification\njointly.  While widely deployed in practical problems, there are\nstill unresolved issues surrounding their efficient implementation\nand their relationship with least mean squares procedures.  In\nthis paper we address these issues within the framework of\nregularized estimation. Our approach leads to a flexible and\nefficient implementation of FDA as well as KDA.  We also uncover a\ngeneral relationship between regularized discriminant analysis and\nridge regression. This relationship yields variations on\nconventional FDA based on the pseudoinverse and a direct equivalence\nto an ordinary least squares estimator.",
+    "authors": [
+        "Zhihua Zhang",
+        "Guang Dai",
+        "Congfu Xu",
+        "Michael I. Jordan"
+    ],
+    "id": "zhang10b",
+    "issue": 75,
+    "pages": [
+        2199,
+        2228
+    ],
+    "title": "Regularized Discriminant Analysis, Ridge Regression and Beyond",
+    "volume": "11",
+    "year": "2010"
+}

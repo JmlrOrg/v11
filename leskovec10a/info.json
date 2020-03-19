@@ -1,0 +1,19 @@
+{
+    "abstract": "How can we generate realistic networks? In addition, how can we do so with\na mathematically tractable model that allows for rigorous analysis of\nnetwork properties? Real networks exhibit a long list of surprising\nproperties: Heavy tails for the in- and out-degree distribution, heavy\ntails for the eigenvalues and eigenvectors, small diameters, and\ndensification and shrinking diameters over time.\nCurrent network models and generators either fail to match several of the above\nproperties, are complicated to analyze mathematically, or both. Here\nwe propose a generative model for networks that is both\nmathematically tractable and can generate networks that have all the above\nmentioned structural properties. Our main idea here is to use a\nnon-standard matrix operation, the <i>Kronecker product</i>, to generate\ngraphs which we refer to as \"Kronecker graphs\".\n\n<br>\n\nFirst, we show that Kronecker graphs naturally obey common network\nproperties. In fact, we rigorously <i>prove</i> that they do so. We also\nprovide empirical evidence showing that Kronecker graphs can effectively\nmodel the structure of real networks.\n\n<br>\n\nWe then present KRONFIT, a fast and scalable algorithm for fitting the\nKronecker graph generation model to large real networks. A naive approach\nto fitting would take super-exponential time. In contrast, KRONFIT takes\n<i>linear</i> time, by exploiting the structure of Kronecker matrix\nmultiplication and by using statistical simulation techniques.\n\n<br>\n\nExperiments on a wide range of large real and synthetic networks show that KRONFIT finds accurate parameters that very well mimic the properties of target\nnetworks. In fact, using just four parameters we can accurately\nmodel several aspects of global network structure.\nOnce fitted, the model parameters can be used to gain insights\nabout the network structure, and the resulting synthetic graphs can be\nused for null-models, anonymization, extrapolations, and graph\nsummarization.",
+    "authors": [
+        "Jure Leskovec",
+        "Deepayan Chakrabarti",
+        "Jon Kleinberg",
+        "Christos Faloutsos",
+        "Zoubin Ghahramani"
+    ],
+    "id": "leskovec10a",
+    "issue": 32,
+    "pages": [
+        985,
+        1042
+    ],
+    "title": "Kronecker Graphs: An Approach to Modeling Networks",
+    "volume": "11",
+    "year": "2010"
+}

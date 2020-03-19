@@ -1,0 +1,17 @@
+{
+    "abstract": "Methods based on <i>l<sub>1</sub></i>-relaxation, such as basis pursuit and the\nLasso, are very popular for sparse regression in high dimensions.  The\nconditions for success of these methods are now well-understood: (1)\nexact recovery in the noiseless setting is possible if and only if the\ndesign matrix <i>X</i> satisfies the restricted nullspace property, and (2)\nthe squared <i>l<sub>2</sub></i>-error of a Lasso estimate decays at the minimax\noptimal rate <i>k log p / n</i>, where <i>k</i> is the\nsparsity of the <i>p</i>-dimensional regression problem with additive\nGaussian noise, whenever the design satisfies a restricted eigenvalue\ncondition.  The key issue is thus to determine when the design matrix\n<i>X</i> satisfies these desirable properties. Thus far, there have been\nnumerous results showing that the restricted isometry property, which\nimplies both the restricted nullspace and eigenvalue conditions, is\nsatisfied when all entries of <i>X</i> are independent and identically\ndistributed (i.i.d.), or the rows are unitary. This paper proves\ndirectly that the restricted nullspace and eigenvalue conditions hold\nwith high probability for quite general classes of Gaussian matrices\nfor which the predictors may be highly dependent, and hence restricted\nisometry conditions can be violated with high probability. In this\nway, our results extend the attractive theoretical guarantees on\n<i>l<sub>1</sub></i>-relaxations to a much broader class of problems than the case\nof completely independent or unitary designs.",
+    "authors": [
+        "Garvesh Raskutti",
+        "Martin J. Wainwright",
+        "Bin Yu"
+    ],
+    "id": "raskutti10a",
+    "issue": 77,
+    "pages": [
+        2241,
+        2259
+    ],
+    "title": "Restricted Eigenvalue Properties for Correlated Gaussian Designs",
+    "volume": "11",
+    "year": "2010"
+}

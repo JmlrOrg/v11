@@ -1,0 +1,16 @@
+{
+    "abstract": "There are many different methods used by classification tree\nalgorithms when missing data occur in the predictors, but few\nstudies have been done comparing their appropriateness and\nperformance. This paper provides both analytic and Monte Carlo\nevidence regarding the effectiveness of six popular missing data\nmethods for classification trees applied to binary response data. We\nshow that in the context of classification trees, the relationship\nbetween the missingness and the dependent variable, as well as the\nexistence or non-existence of missing values in the testing data,\nare the most helpful criteria to distinguish different missing data\nmethods. In particular, separate class is clearly the best\nmethod to use when the testing set has missing values and the\nmissingness is related to the response variable. A real data set\nrelated to modeling bankruptcy of a firm is then analyzed. The paper\nconcludes with discussion of adaptation of these results to logistic\nregression, and other potential generalizations.",
+    "authors": [
+        "Yufeng Ding",
+        "Jeffrey S. Simonoff"
+    ],
+    "id": "ding10a",
+    "issue": 5,
+    "pages": [
+        131,
+        170
+    ],
+    "title": "An Investigation of Missing Data Methods for Classification Trees Applied to Binary Response Data",
+    "volume": "11",
+    "year": "2010"
+}

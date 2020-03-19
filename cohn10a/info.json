@@ -1,0 +1,18 @@
+{
+    "abstract": "<i>Continuous-time Bayesian networks</i> is a natural structured representation language for multi-component stochastic processes that evolve continuously over time.  Despite the compact representation provided by this language, inference in such models is intractable even in relatively simple structured networks. We introduce a mean field variational approximation in which we use a product of <i>inhomogeneous</i> Markov processes to approximate a joint distribution over trajectories.  This variational approach leads to a globally consistent distribution, which  can be efficiently queried.  Additionally, it provides a lower bound on the probability of observations, thus making it attractive for learning tasks.  Here we describe the theoretical foundations for the approximation, an efficient implementation that exploits the wide range of highly optimized ordinary differential equations (ODE) solvers, experimentally explore characterizations of processes for which this approximation is suitable, and show applications to a large-scale real-world inference problem.",
+    "authors": [
+        "Ido Cohn",
+        "Tal El-Hay",
+        "Nir Friedman",
+        "Raz Kupferman"
+    ],
+    "id": "cohn10a",
+    "issue": 92,
+    "pages": [
+        2745,
+        2783
+    ],
+    "title": "Mean Field Variational Approximation for Continuous-Time Bayesian Networks",
+    "volume": "11",
+    "year": "2010"
+}

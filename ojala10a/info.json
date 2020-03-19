@@ -1,0 +1,16 @@
+{
+    "abstract": "We explore the framework of permutation-based <i>p</i>-values for assessing the performance of classifiers. In this paper we study two simple permutation tests. The first test assess whether the classifier has found a real class structure in the data; the corresponding null distribution is estimated by permuting the labels in the data. This test has been used extensively in classification problems in computational biology. The second test studies whether the classifier is exploiting the dependency between the features in classification; the corresponding null distribution is estimated by permuting the features within classes, inspired by restricted randomization techniques traditionally used in statistics. This new test can serve to identify descriptive features which can be valuable information in improving the classifier performance. We study the properties of these tests and present an extensive empirical evaluation on real and synthetic data. Our analysis shows that studying the classifier performance via permutation tests is effective. In particular, the restricted permutation test clearly reveals whether the classifier exploits the interdependency between the features in the data.",
+    "authors": [
+        "Markus Ojala",
+        "Gemma C. Garriga"
+    ],
+    "id": "ojala10a",
+    "issue": 61,
+    "pages": [
+        1833,
+        1863
+    ],
+    "title": "Permutation Tests for Studying Classifier Performance",
+    "volume": "11",
+    "year": "2010"
+}

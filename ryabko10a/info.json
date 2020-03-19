@@ -1,0 +1,15 @@
+{
+    "abstract": "The problem is sequence prediction in the following setting. \nA sequence <i>x<sub>1</sub>,...,x<sub>n</sub>,...</i> of discrete-valued observations is generated \naccording to some unknown probabilistic law (measure) &#956;. After observing each outcome, \nit is required to give the conditional probabilities of the next observation.\nThe measure  &#956; belongs to an arbitrary but known class <i>C</i> of stochastic process measures.\nWe are interested in predictors &#961; whose conditional probabilities converge (in some sense) to the\n\"true\" &#956;-conditional probabilities, if any &#956;&#8712;<i>C</i> is chosen to generate the sequence.\nThe contribution of this work is in characterizing the families <i>C</i> for which such predictors exist, \nand in providing a specific and simple form in which to look for a solution. We show that if any predictor works, then \nthere exists a Bayesian predictor,  whose   prior is discrete, and which works too.\n We also find several sufficient and necessary conditions\nfor the existence of a predictor, in terms of topological characterizations of the family <i>C</i>, as well as in terms\nof local behaviour of the measures in <i>C</i>,  which in some cases lead to procedures for constructing such predictors.\n\n<br>\n\nIt should be  emphasized that the framework is completely general: the stochastic processes considered are not required to be \ni.i.d., stationary, or to belong to any parametric or countable family.",
+    "authors": [
+        "Daniil Ryabko"
+    ],
+    "id": "ryabko10a",
+    "issue": 16,
+    "pages": [
+        581,
+        602
+    ],
+    "title": "On Finding Predictors for Arbitrary Families of Processes",
+    "volume": "11",
+    "year": "2010"
+}

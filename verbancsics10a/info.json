@@ -1,0 +1,16 @@
+{
+    "abstract": "An important goal for machine learning is to transfer knowledge between tasks. For example, learning to play RoboCup Keepaway should contribute to learning the full game of RoboCup soccer. Previous approaches to transfer in Keepaway have focused on transforming the original representation to fit the new task. In contrast, this paper explores the idea that transfer is most effective if the representation is designed to be the <i>same</i> even across different tasks. To demonstrate this point, a <i>bird's eye view</i> (BEV) representation is introduced that can represent different tasks on the same two-dimensional map.  For example, both the 3 vs. 2 and 4 vs. 3 Keepaway tasks can be represented on the same BEV. Yet the problem is that a raw two-dimensional map is high-dimensional and unstructured. This paper shows how this problem is addressed naturally by an idea from evolutionary computation called <i>indirect encoding</i>, which compresses the representation by exploiting its geometry. The result is that the BEV learns a Keepaway policy that transfers <i>without further learning</i> or manipulation. It also facilitates transferring knowledge learned in a different domain, Knight Joust, into Keepaway.  Finally, the indirect encoding of the BEV means that its geometry can be changed without altering the solution.  Thus static representations facilitate several kinds of transfer.",
+    "authors": [
+        "Phillip Verbancsics",
+        "Kenneth O. Stanley"
+    ],
+    "id": "verbancsics10a",
+    "issue": 57,
+    "pages": [
+        1737,
+        1769
+    ],
+    "title": "Evolving Static Representations for Task Transfer",
+    "volume": "11",
+    "year": "2010"
+}

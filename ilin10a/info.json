@@ -1,0 +1,16 @@
+{
+    "abstract": "Principal component analysis (PCA) is a classical data analysis\n  technique that finds linear transformations of data that retain the\n  maximal amount of variance. We study a case where some of the data\n  values are missing, and show that this problem has many features\n  which are usually associated with nonlinear models, such as\n  overfitting and bad locally optimal solutions. A probabilistic\n  formulation of PCA provides a good foundation for handling missing\n  values, and we provide formulas for doing that. In case of high\n  dimensional and very sparse data, overfitting becomes a severe\n  problem and traditional algorithms for PCA are very slow. We\n  introduce a novel fast algorithm and extend it to variational\n  Bayesian learning. Different versions of PCA are compared in\n  artificial experiments, demonstrating the effects of regularization\n  and modeling of posterior variance. The scalability of the proposed\n  algorithm is demonstrated by applying it to the Netflix problem.",
+    "authors": [
+        "Alexander Ilin",
+        "Tapani Raiko"
+    ],
+    "id": "ilin10a",
+    "issue": 65,
+    "pages": [
+        1957,
+        2000
+    ],
+    "title": "Practical Approaches to Principal Component Analysis in the Presence of Missing Values",
+    "volume": "11",
+    "year": "2010"
+}

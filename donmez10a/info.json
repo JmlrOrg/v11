@@ -1,0 +1,17 @@
+{
+    "abstract": "Estimating the error rates of classifiers or regression models is a fundamental task in machine learning which has thus far been studied exclusively using supervised learning techniques. We propose a novel  unsupervised framework for estimating these error rates using only unlabeled data and mild assumptions. We prove consistency results for the framework and demonstrate its practical applicability on both synthetic and real world data.",
+    "authors": [
+        "Pinar Donmez",
+        "Guy Lebanon",
+        "Krishnakumar Balasubramanian"
+    ],
+    "id": "donmez10a",
+    "issue": 43,
+    "pages": [
+        1323,
+        1351
+    ],
+    "title": "Unsupervised Supervised Learning I: Estimating Classification and Regression Errors without Labels",
+    "volume": "11",
+    "year": "2010"
+}

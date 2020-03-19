@@ -1,0 +1,18 @@
+{
+    "abstract": "We present a new sparse Gaussian Process (GP) model for\nregression. The key novel idea is to sparsify the <i>spectral\n  representation</i> of the GP. This leads to a simple, practical\nalgorithm for regression tasks. We compare the achievable trade-offs\nbetween predictive accuracy and computational requirements, and show\nthat these are typically superior to existing state-of-the-art\nsparse approximations. We discuss both the weight space and function\nspace representations, and note that the new construction implies\npriors over functions which are always stationary, and can\napproximate any covariance function in this class.",
+    "authors": [
+        "Miguel L&#225;zaro-Gredilla",
+        "Joaquin Qui&#241;onero-Candela",
+        "Carl Edward Rasmussen",
+        "An&#237;bal R. Figueiras-Vidal"
+    ],
+    "id": "lazaro-gredilla10a",
+    "issue": 62,
+    "pages": [
+        1865,
+        1881
+    ],
+    "title": "Sparse Spectrum Gaussian Process Regression",
+    "volume": "11",
+    "year": "2010"
+}

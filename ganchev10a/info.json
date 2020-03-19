@@ -1,0 +1,18 @@
+{
+    "abstract": "We present posterior regularization, a probabilistic framework for\nstructured, weakly supervised learning.  Our framework efficiently\nincorporates indirect supervision via constraints on posterior\ndistributions of probabilistic models with latent variables. Posterior\nregularization <i>separates</i> model complexity from the complexity\nof structural constraints it is desired to satisfy.  By directly\nimposing decomposable regularization on the posterior moments of\nlatent variables during learning, we retain the computational\nefficiency of the unconstrained model while ensuring desired\nconstraints hold in expectation. We present an efficient algorithm for\nlearning with posterior regularization and illustrate its versatility\non a diverse set of structural constraints such as bijectivity,\nsymmetry and group sparsity in several large scale experiments,\nincluding multi-view learning, cross-lingual dependency grammar\ninduction, unsupervised part-of-speech induction, and bitext word\nalignment.",
+    "authors": [
+        "Kuzman Ganchev",
+        "Jo&#227;o Gra&#231;a",
+        "Jennifer Gillenwater",
+        "Ben Taskar"
+    ],
+    "id": "ganchev10a",
+    "issue": 66,
+    "pages": [
+        2001,
+        2049
+    ],
+    "title": "Posterior Regularization for Structured Latent Variable Models",
+    "volume": "11",
+    "year": "2010"
+}
