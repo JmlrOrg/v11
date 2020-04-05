@@ -2,7 +2,7 @@
     "abstract": "Three simple and explicit procedures for testing the independence\nof two multi-dimensional  random variables are described.  Two \nof the associated test statistics (<i>L<sub>1</sub></i>,\nlog-likelihood) are defined when the empirical\ndistribution of the variables is restricted to finite partitions.  \nA third test statistic is defined as a kernel-based independence measure.\nTwo kinds of tests are provided.\n Distribution-free strong consistent tests are derived \non the basis of large deviation bounds on the test statistics: these tests\nmake almost surely no Type I or Type II error\nafter a random sample size.\nAsymptotically\n<i>&#945;</i>-level tests are obtained from the limiting distribution of the test statistics.\nFor the latter tests, the Type I error converges\nto a fixed non-zero value <i>&#945;</i>, and the Type II error drops to zero, \nfor increasing sample size.\nAll tests reject the null hypothesis of independence if the test\nstatistics become large. \nThe performance of the tests is evaluated experimentally on\nbenchmark data.",
     "authors": [
         "Arthur Gretton",
-        "L&#225;szl&#243; Gy&#246;rfi"
+        "L{{\\'a}}szl{{\\'o}} Gy{{\\\"o}}rfi"
     ],
     "id": "gretton10a",
     "issue": 45,

@@ -11,5 +11,8 @@
     ],
     "title": "SFO: A Toolbox for Submodular Function Optimization",
     "volume": "11",
-    "year": "2010"
+    "year": "2010",
+    "special_issue": "MLOSS",
+    "extra_links": [
+        ["webpage", "https://las.inf.ethz.ch/submodularity/"]]
 }

@@ -1,7 +1,7 @@
 {
     "abstract": "We introduce novel results for approximate inference on planar graphical models\nusing the loop calculus framework.  The loop calculus (Chertkov and Chernyak, 2006a)\nallows to express the exact partition function of a graphical model as a finite\nsum of terms that can be evaluated once the belief propagation (BP) solution is\nknown.  In general, full summation over all correction terms is intractable.\nWe develop an algorithm for the approach presented in Chertkov et al. (2008) which\nrepresents an efficient truncation scheme on planar graphs and a new\nrepresentation of the series in terms of Pfaffians of matrices.  We analyze the\nperformance of the algorithm for models with binary variables and pairwise\ninteractions on grids and other planar graphs.  We study in detail both the\nloop series and the equivalent Pfaffian series and show that the first term of\nthe Pfaffian series for the general, intractable planar model, can provide very\naccurate approximations.  The algorithm outperforms previous truncation schemes\nof the loop series and is competitive with other state of the art methods for\napproximate inference.",
     "authors": [
-        "Vicen&#231; G&#243;mez",
+        "Vicen{\\c{c}} G{{\\'o}}mez",
         "Hilbert J. Kappen",
         "Michael Chertkov"
     ],

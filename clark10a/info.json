@@ -2,7 +2,7 @@
     "abstract": "We present a polynomial update time algorithm for the inductive inference of a large class of context-free languages  using the paradigm of positive data and a membership oracle.  We achieve this result by moving to a novel representation, called Contextual Binary Feature Grammars (CBFGs),  which are capable of representing richly structured context-free languages as well as some context sensitive languages.  These representations explicitly model the lattice structure of the <i>distribution</i> of a set of substrings and can be inferred using a generalisation of distributional learning.  This formalism is an attempt to bridge the gap between simple learnable classes and the sorts of highly  expressive  representations necessary for linguistic representation: it allows the learnability of a large class of context-free languages, that includes all regular languages and those context-free languages that satisfy two simple constraints.  The formalism and the algorithm seem well suited to natural language and in particular to the modeling of first language acquisition. Preliminary experimental results confirm the effectiveness of this approach.",
     "authors": [
         "Alexander Clark",
-        "R&#233;mi Eyraud",
+        "R{{\\'e}}mi Eyraud",
         "Amaury Habrard"
     ],
     "id": "clark10a",

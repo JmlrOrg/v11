@@ -1,9 +1,9 @@
 {
     "abstract": "We consider a sequential version of the classical bin packing problem\nin which items are received one by one. Before the size of the next\nitem is revealed, the decision maker needs to decide whether\nthe next item is packed in the currently open bin or the bin is\nclosed and a new bin is opened. If the new item does not fit, it is\nlost. If a bin is closed, the remaining free space in the bin accounts\nfor a loss. The goal of the decision maker is to minimize the\nloss accumulated over <i>n</i> periods. We present\nan algorithm that has a cumulative loss not much larger than any\nstrategy in a finite class of reference strategies\nfor any sequence of items.\nSpecial attention is payed to reference strategies\nthat use a fixed threshold at each step to decide whether a new bin\nis opened. Some positive and negative results are presented for this case.",
     "authors": [
-        "Andr&#225;s Gy&#246;rgy",
-        "G&#225;bor Lugosi",
-        "Gy&#246;rgy Ottucs&#224;k"
+        "Andr{{\\'a}}s Gy{{\\\"o}}rgy",
+        "G{{\\'a}}bor Lugosi",
+        "Gy{{\\\"o}}rgy Ottucs&#224;k"
     ],
     "id": "gyorgy10a",
     "issue": 3,

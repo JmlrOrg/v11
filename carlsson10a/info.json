@@ -2,7 +2,7 @@
     "abstract": "We study hierarchical clustering schemes under an axiomatic view. We\n  show that within this framework, one can prove a theorem analogous\n  to one of Kleinberg (2002), in which one obtains an\n  existence and uniqueness theorem instead of a non-existence\n  result. We explore further properties of this unique scheme:\n  stability and convergence are established. We represent dendrograms\n  as ultrametric spaces and use tools from metric geometry, namely the\n  Gromov-Hausdorff distance, to quantify the degree to which\n  perturbations in the input metric space affect the result of\n  hierarchical methods.",
     "authors": [
         "Gunnar Carlsson",
-        "Facundo M&#233;moli"
+        "Facundo M{{\\'e}}moli"
     ],
     "id": "carlsson10a",
     "issue": 46,

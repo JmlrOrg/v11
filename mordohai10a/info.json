@@ -2,7 +2,7 @@
     "abstract": "We address instance-based learning from a perceptual organization\nstandpoint and present methods for dimensionality estimation,\nmanifold learning and function approximation. Under our approach, manifolds in high-dimensional spaces\nare inferred by estimating geometric relationships among the input\ninstances. Unlike conventional manifold learning, we do not perform dimensionality reduction, but\ninstead perform all operations in the original input space. For this\npurpose we employ a novel formulation of tensor voting, which allows an <i>N</i>-D\nimplementation. Tensor voting is a perceptual organization\nframework that has mostly been applied to computer vision problems.\nAnalyzing the estimated local structure at the inputs, we are able\nto obtain reliable dimensionality estimates at each instance,\ninstead of a global estimate for the entire data set. Moreover, these\nlocal dimensionality and structure estimates enable us to measure\ngeodesic distances and perform nonlinear interpolation for data sets\nwith varying density, outliers, perturbation and intersections, that\ncannot be handled by state-of-the-art methods. Quantitative\nresults on the estimation of local manifold structure using ground truth data are presented. In addition, we compare our\napproach with several leading methods for manifold learning at the\ntask of measuring geodesic distances. Finally, we show competitive\nfunction approximation results on real data.",
     "authors": [
         "Philippos Mordohai",
-        "G&#233;rard Medioni"
+        "G{{\\'e}}rard Medioni"
     ],
     "id": "mordohai10a",
     "issue": 11,
