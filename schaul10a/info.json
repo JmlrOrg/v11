@@ -7,18 +7,16 @@
         "Yi Sun",
         "Martin Felder",
         "Frank Sehnke",
-        "Thomas R{{\\\"u}}ckstie{{\\s}}",
+        "Thomas R{{\\\"u}}ckstie&#223;",
         "J{{\\\"u}}rgen Schmidhuber"
     ],
     "id": "schaul10a",
-    "issue": 23,
+    "issue": 24,
     "pages": [
         743,
         746
     ],
     "title": "PyBrain",
     "volume": "11",
-    "year": "2010",
-    "special_issue": "MLOSS",
-    "extra_links": [["webpage", "http://pybrain.org/"]]
+    "year": "2010"
 }

@@ -6,18 +6,12 @@
         "Petia Radeva"
     ],
     "id": "escalera10a",
-    "issue": 19,
+    "issue": 20,
     "pages": [
         661,
         664
     ],
     "title": "Error-Correcting Output Codes Library",
     "volume": "11",
-    "year": "2010",
-    "extra_links": [
-        [
-            "code",
-            "http://www.jmlr.org/papers/volume11/escalera10a/Code.zip"
-        ]
-    ]
+    "year": "2010"
 }

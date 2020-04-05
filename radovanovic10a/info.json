@@ -1,12 +1,12 @@
 {
     "abstract": "Different aspects of the curse of dimensionality are known to present serious\nchallenges to various machine-learning methods and tasks. This paper explores\na new aspect of the dimensionality curse, referred to as <i>hubness</i>, that\naffects the distribution of <i>k</i>-occurrences: the number of times a point\nappears among the <i>k</i> nearest neighbors of other points in a data set. Through\ntheoretical and empirical analysis involving synthetic and real data sets\nwe show that under commonly used assumptions this distribution becomes\nconsiderably skewed as dimensionality increases, causing the emergence of\n<i>hubs</i>, that is, points with very high <i>k</i>-occurrences which\neffectively represent \"popular\" nearest neighbors. We examine the origins of\nthis phenomenon, showing that it is an inherent property of data distributions\nin high-dimensional vector space, discuss its interaction with dimensionality\nreduction, and explore its influence on a wide range of machine-learning tasks\ndirectly or indirectly based on measuring distances, belonging to supervised,\nsemi-supervised, and unsupervised learning families.",
     "authors": [
-        "Milo{\\v{s}} Radovanovi{{\\'c}}",
+        "Milo{\\v{s}} Radovanovi&#263;",
         "Alexandros Nanopoulos",
-        "Mirjana Ivanovi{{\\'c}}"
+        "Mirjana Ivanovi&#263;"
     ],
     "id": "radovanovic10a",
-    "issue": 85,
+    "issue": 86,
     "pages": [
         2487,
         2531
