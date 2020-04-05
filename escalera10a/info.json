@@ -13,5 +13,11 @@
     ],
     "title": "Error-Correcting Output Codes Library",
     "volume": "11",
-    "year": "2010"
+    "year": "2010",
+    "extra_links": [
+        [
+            "code",
+            "http://www.jmlr.org/papers/volume11/escalera10a/Code.zip"
+        ]
+    ]
 }
