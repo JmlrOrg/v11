@@ -16,5 +16,6 @@
     "title": "Model-based Boosting 2.0",
     "volume": "11",
     "year": "2010",
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "https://cran.r-project.org/web/packages/mboost/"]]
 }

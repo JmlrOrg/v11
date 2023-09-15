@@ -16,5 +16,6 @@
     "title": "A Surrogate Modeling and Adaptive Sampling Toolbox for Computer Based Design",
     "volume": "11",
     "year": "2010",
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "http://www.sumo.intec.ugent.be/"]]
 }

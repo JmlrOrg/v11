@@ -16,5 +16,6 @@
     "title": "Continuous Time Bayesian Network Reasoning and Learning Engine",
     "volume": "11",
     "year": "2010",
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "https://github.com/eudoxia0/ctbnrle"]]
 }

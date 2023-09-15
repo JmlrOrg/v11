@@ -12,5 +12,6 @@
     "title": "libDAI: A Free and Open Source C++ Library for Discrete Approximate Inference in Graphical Models",
     "volume": "11",
     "year": "2010",
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "https://github.com/dbtsai/libDAI"]]
 }
