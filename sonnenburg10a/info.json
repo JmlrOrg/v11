@@ -1,8 +1,8 @@
 {
     "abstract": "We have developed a machine learning toolbox, called SHOGUN, which is\ndesigned for unified large-scale learning for a broad range of feature\ntypes and learning settings. It offers a considerable number of machine\nlearning models such as support vector machines, hidden Markov models, multiple kernel learning, linear\ndiscriminant analysis, and\nmore. Most of the specific algorithms are able to deal with\nseveral different data classes. We\nhave used this toolbox in several applications from computational\nbiology, some of them coming with no less than 50 million training\nexamples and others with 7 billion test examples. With more than a\nthousand installations worldwide, SHOGUN is already widely adopted in\nthe machine learning community and beyond.\n\nSHOGUN is implemented in C++ and interfaces to <i>MATLAB</i><sup>TM</sup>, <i>R</i>, <i>Octave</i>, <i>Python</i>, and\nhas a stand-alone command line interface.  The source code is freely available under the GNU General Public License, Version 3 at http://www.shogun-toolbox.org.",
     "authors": [
-        "S{{\\\"o}}ren Sonnenburg",
-        "Gunnar R&#228;tsch",
+        "Sören Sonnenburg",
+        "Gunnar Rätsch",
         "Sebastian Henschel",
         "Christian Widmer",
         "Jonas Behr",
@@ -10,7 +10,7 @@
         "Fabio de Bona",
         "Alexander Binder",
         "Christian Gehl",
-        "Vojt{{\\ve}}ch Franc"
+        "Vojtěch Franc"
     ],
     "id": "sonnenburg10a",
     "issue": 60,
